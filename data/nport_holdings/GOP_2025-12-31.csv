@@ -1,0 +1,140 @@
+ticker,pct,valUSD,name
+FIX,5.955,3795690.43,Comfort Systems USA Inc
+JPM,4.971,3168389.26,JPMorgan Chase &amp; Co
+IBIT,4.135,2635471.65,iShares Bitcoin Trust ETF
+NVDA,3.466,2208906.0,NVIDIA Corp
+INTC,2.997,1909907.1,Intel Corp
+ANET,2.881,1836516.48,Arista Networks Inc
+UTHR,2.303,1467597.0,United Therapeutics Corp
+T,2.262,1441465.2,AT&amp;T Inc
+ALL,2.091,1332992.6,Allstate Corp/The
+CVX,1.963,1250981.28,Chevron Corp
+NFG,1.737,1107149.74,National Fuel Gas Co
+TSN,1.678,1069170.18,Tyson Foods Inc
+FIS,1.617,1030395.84,Fidelity National Information
+ACN,1.542,983051.2,Accenture PLC
+COP,1.453,926364.56,ConocoPhillips
+SPG,1.425,907964.55,Simon Property Group Inc
+ASML,1.42,905101.56,ASML Holding NV
+AMD,1.412,899686.16,Advanced Micro Devices Inc
+JNJ,1.37,873122.05,Johnson &amp; Johnson
+RTX,1.28,815946.6,RTX Corp
+TSLA,1.264,805448.52,Tesla Inc
+SHEL,1.13,720177.48,Shell PLC
+PYPL,1.128,718774.56,PayPal Holdings Inc
+AER,1.09,694504.56,AerCap Holdings NV
+AVGO,1.042,663819.8,Broadcom Inc
+LHX,1.032,657890.37,L3Harris Technologies Inc
+TXN,1.015,646597.23,Texas Instruments Inc
+NVT,0.983,626299.74,nVent Electric PLC
+WWD,0.947,603430.72,Woodward Inc
+NGL,0.907,578290.0,NGL Energy Partners LP
+WMB,0.878,559864.54,Williams Cos Inc/The
+PM,0.835,532046.8,Philip Morris International In
+FDX,0.773,492506.3,FedEx Corp
+COST,0.767,488946.78,Costco Wholesale Corp
+ORLY,0.76,484325.1,O'Reilly Automotive Inc
+LVS,0.738,470665.79,Las Vegas Sands Corp
+AMZN,0.725,462101.64,Amazon.com Inc
+WBD,0.687,437833.44,Warner Bros Discovery Inc
+V,0.677,431724.01,Visa Inc
+FCFS,0.674,429688.48,FirstCash Holdings Inc
+EMR,0.672,428552.88,Emerson Electric Co
+OSK,0.67,427016.37,Oshkosh Corp
+META,0.66,420477.33,Meta Platforms Inc
+ROK,0.657,419028.39,Rockwell Automation Inc
+HD,0.654,416705.1,Home Depot Inc/The
+MSFT,0.649,413495.1,Microsoft Corp
+CAT,0.647,412466.4,Caterpillar Inc
+LIN,0.622,396542.7,Linde PLC
+BLK,0.615,391744.44,Blackrock Inc
+NVO,0.596,379870.08,Novo Nordisk A/S
+SF,0.592,377538.3,Stifel Financial Corp
+WTW,0.588,374932.6,Willis Towers Watson PLC
+MA,0.586,373355.52,Mastercard Inc
+AAPL,0.584,372448.2,Apple Inc
+B,0.577,367562.0,Barrick Mining Corp
+DAL,0.56,357201.8,Delta Air Lines Inc
+NEE,0.549,349619.4,NextEra Energy Inc
+WTM,0.544,347031.01,White Mountains Insurance Grou
+D,0.537,342341.37,Dominion Energy Inc
+LMT,0.536,341471.02,Lockheed Martin Corp
+INTU,0.511,325910.64,Intuit Inc
+ELV,0.509,324258.75,Elevance Health Inc
+SAP,0.483,307524.06,SAP SE
+DLTR,0.481,306417.91,Dollar Tree Inc
+MSTR,0.48,305875.35,Strategy Inc
+EQH,0.472,300671.5,Equitable Holdings Inc
+MKL,0.472,300951.0,Markel Group Inc
+BSX,0.463,295203.6,Boston Scientific Corp
+BJ,0.456,290436.78,BJ's Wholesale Club Holdings I
+CDNS,0.454,289136.5,Cadence Design Systems Inc
+SNOW,0.449,286264.8,Snowflake Inc
+PANW,0.441,281273.4,Palo Alto Networks Inc
+EPAM,0.437,278841.68,EPAM Systems Inc
+HON,0.429,273126.0,Honeywell International Inc
+SPH,0.426,271240.2,Suburban Propane Partners LP
+ET,0.408,260047.3,Energy Transfer LP
+ARMK,0.407,259494.4,Aramark
+COF,0.392,249630.8,Capital One Financial Corp
+C,0.391,248899.77,Citigroup Inc
+NUE,0.383,244175.67,Nucor Corp
+UBER,0.378,240717.66,Uber Technologies Inc
+WDAY,0.366,233251.08,Workday Inc
+ADSK,0.365,232367.85,Autodesk Inc
+TRS,0.331,211069.3,TriMas Corp
+GEN,0.324,206208.96,Gen Digital Inc
+TMUS,0.317,202227.84,T-Mobile US Inc
+CB,0.314,200068.92,Chubb Ltd
+SCHW,0.311,198221.44,Charles Schwab Corp/The
+LUV,0.306,194994.94,Southwest Airlines Co
+HSIC,0.302,192577.84,Henry Schein Inc
+PRI,0.29,184727.4,Primerica Inc
+FGXXX,0.273,173687.6,First American Government Obli
+MMC,0.269,171606.0,Marsh &amp; McLennan Cos Inc
+DCI,0.267,170049.88,Donaldson Co Inc
+HUM,0.264,168021.28,Humana Inc
+NOW,0.256,163147.35,ServiceNow Inc
+DVN,0.254,161611.56,Devon Energy Corp
+HLI,0.254,161648.32,Houlihan Lokey Inc
+CSCO,0.25,159143.98,Cisco Systems Inc
+CLX,0.236,150438.36,Clorox Co/The
+SSD,0.235,149521.22,Simpson Manufacturing Co Inc
+AA,0.235,149642.24,Alcoa Corp
+OXY,0.232,147785.28,Occidental Petroleum Corp
+AIT,0.23,146872.44,Applied Industrial Technologie
+IQV,0.227,144938.63,IQVIA Holdings Inc
+FTNT,0.221,140714.52,Fortinet Inc
+PLXS,0.213,135975.0,Plexus Corp
+QCOM,0.212,135129.5,QUALCOMM Inc
+CNM,0.211,134654.27,Core &amp; Main Inc
+CRWD,0.209,133127.84,Crowdstrike Holdings Inc
+OKE,0.206,130977.0,ONEOK Inc
+ABBV,0.204,130010.81,AbbVie Inc
+UBSI,0.203,129408.0,United Bankshares Inc/WV
+DIS,0.203,129356.49,Walt Disney Co/The
+VVV,0.199,126905.02,Valvoline Inc
+LPX,0.197,125339.52,Louisiana-Pacific Corp
+CHTR,0.196,124623.75,Charter Communications Inc
+KO,0.195,124509.71,Coca-Cola Co/The
+KLAC,0.194,123938.16,KLA Corp
+FCX,0.192,122607.06,Freeport-McMoRan Inc
+PWR,0.192,122397.4,Quanta Services Inc
+BAC,0.184,117315.0,Bank of America Corp
+SBUX,0.18,114441.39,Starbucks Corp
+FBIN,0.178,113645.44,Fortune Brands Innovations Inc
+DOV,0.175,111677.28,Dover Corp
+ST,0.169,107493.41,Sensata Technologies Holding P
+PLUS,0.166,105941.6,ePlus Inc
+ARW,0.16,101806.32,Arrow Electronics Inc
+PTC,0.155,98951.28,PTC Inc
+ARLP,0.154,98402.28,Alliance Resource Partners LP
+ORCL,0.153,97455.0,Oracle Corp
+AMGN,0.147,93610.66,Amgen Inc
+GTES,0.144,92041.89,Gates Industrial Corp PLC
+PAG,0.142,90700.17,Penske Automotive Group Inc
+FMAO,0.142,90203.28,Farmers &amp; Merchants Bancorp In
+ATR,0.137,87201.4,AptarGroup Inc
+ADBE,0.126,80497.7,Adobe Inc
+NSIT,0.119,75604.16,Insight Enterprises Inc
+FXFXX,0.005,3242.77,First American Treasury Obliga

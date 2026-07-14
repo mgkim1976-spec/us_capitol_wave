@@ -1,0 +1,92 @@
+{
+  "rf_ann": 0.04558959031966795,
+  "eras": {
+    "바이든": {
+      "NANC": {
+        "CAGR": 26.06,
+        "Vol": 15.18,
+        "Sharpe": 1.3,
+        "Sortino": 1.88,
+        "MDD": -11.06,
+        "beta_SPY": 1.15,
+        "corr_SPY": 0.95
+      },
+      "GOP": {
+        "CAGR": 15.02,
+        "Vol": 12.79,
+        "Sharpe": 0.8,
+        "Sortino": 1.2,
+        "MDD": -10.03,
+        "beta_SPY": 0.9,
+        "corr_SPY": 0.89
+      },
+      "SPY": {
+        "CAGR": 23.11,
+        "Vol": 12.63,
+        "Sharpe": 1.31,
+        "Sortino": 1.87,
+        "MDD": -9.97,
+        "beta_SPY": 1.0,
+        "corr_SPY": 1.0
+      }
+    },
+    "트럼프2기": {
+      "NANC": {
+        "CAGR": 17.6,
+        "Vol": 18.84,
+        "Sharpe": 0.75,
+        "Sortino": 1.01,
+        "MDD": -20.94,
+        "beta_SPY": 1.01,
+        "corr_SPY": 0.97
+      },
+      "GOP": {
+        "CAGR": 25.55,
+        "Vol": 17.2,
+        "Sharpe": 1.18,
+        "Sortino": 1.63,
+        "MDD": -20.65,
+        "beta_SPY": 0.75,
+        "corr_SPY": 0.79
+      },
+      "SPY": {
+        "CAGR": 19.22,
+        "Vol": 18.09,
+        "Sharpe": 0.85,
+        "Sortino": 1.11,
+        "MDD": -18.76,
+        "beta_SPY": 1.0,
+        "corr_SPY": 1.0
+      }
+    },
+    "전체": {
+      "NANC": {
+        "CAGR": 22.56,
+        "Vol": 16.77,
+        "Sharpe": 1.03,
+        "Sortino": 1.42,
+        "MDD": -20.94,
+        "beta_SPY": 1.07,
+        "corr_SPY": 0.96
+      },
+      "GOP": {
+        "CAGR": 19.24,
+        "Vol": 14.75,
+        "Sharpe": 0.96,
+        "Sortino": 1.36,
+        "MDD": -20.65,
+        "beta_SPY": 0.81,
+        "corr_SPY": 0.83
+      },
+      "SPY": {
+        "CAGR": 21.53,
+        "Vol": 15.1,
+        "Sharpe": 1.04,
+        "Sortino": 1.41,
+        "MDD": -18.76,
+        "beta_SPY": 1.0,
+        "corr_SPY": 1.0
+      }
+    }
+  }
+}

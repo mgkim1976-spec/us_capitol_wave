@@ -1,0 +1,159 @@
+ticker,pct,valUSD,name
+NVDA,10.616,23906888.81,NVIDIA Corp
+MSFT,8.087,18210677.51,Microsoft Corp
+AMZN,5.174,11650705.95,Amazon.com Inc
+GOOG,3.797,8551794.51,Alphabet Inc
+CRM,3.687,8303955.88,Salesforce Inc
+PM,3.575,8050874.52,Philip Morris International In
+NFLX,3.381,7612954.05,Netflix Inc
+AXP,3.116,7016922.04,American Express Co
+META,3.005,6768285.3,Meta Platforms Inc
+AAPL,2.946,6633556.44,Apple Inc
+COST,2.903,6536573.82,Costco Wholesale Corp
+CRWD,2.775,6248215.08,Crowdstrike Holdings Inc
+AORT,2.48,5583911.7,Artivion Inc
+VMC,2.122,4779265.68,Vulcan Materials Co
+LLY,2.089,4705243.08,Eli Lilly &amp; Co
+AMAT,1.98,4457937.57,Applied Materials Inc
+SSNC,1.885,4245984.0,SS&amp;C Technologies Holdings Inc
+DIS,1.629,3669207.88,Walt Disney Co/The
+DHI,1.576,3548265.16,DR Horton Inc
+ABT,1.244,2802078.02,Abbott Laboratories
+APG,1.116,2513497.8,API Group Corp
+IBM,1.079,2429576.76,IBM
+JNJ,1.021,2299956.75,Johnson &amp; Johnson
+NOW,0.932,2099339.36,ServiceNow Inc
+VST,0.817,1840032.14,Vistra Corp
+KO,0.804,1809714.25,Coca-Cola Co/The
+ACN,0.669,1506704.49,Accenture PLC
+TEM,0.666,1498717.98,Tempus AI Inc
+PANW,0.665,1497350.88,Palo Alto Networks Inc
+CVS,0.656,1478310.38,CVS Health Corp
+URI,0.6,1350846.2,United Rentals Inc
+KKR,0.574,1293716.75,KKR &amp; Co Inc
+PINS,0.563,1267220.68,Pinterest Inc
+MS,0.541,1217734.7,Morgan Stanley
+RTX,0.508,1144504.76,RTX Corp
+ARMK,0.485,1091760.25,Aramark
+NOC,0.482,1084456.62,Northrop Grumman Corp
+WFC,0.438,985716.36,Wells Fargo &amp; Co
+PGR,0.436,982044.8,Progressive Corp/The
+FGXXX,0.403,908415.8,First American Government Obli
+MU,0.38,855724.75,Micron Technology Inc
+COF,0.361,812317.68,Capital One Financial Corp
+HD,0.341,767744.16,Home Depot Inc/The
+WMT,0.321,723278.66,Walmart Inc
+CSCO,0.313,704276.38,Cisco Systems Inc
+LRCX,0.305,686636.36,Lam Research Corp
+HCA,0.304,685365.9,HCA Healthcare Inc
+V,0.283,636604.65,Visa Inc
+PG,0.274,616568.4,Procter &amp; Gamble Co/The
+SBUX,0.265,597335.97,Starbucks Corp
+TCMD,0.262,590472.48,Tactile Systems Technology Inc
+ABBV,0.261,586930.44,AbbVie Inc
+TMUS,0.259,583737.0,T-Mobile US Inc
+C,0.254,572772.48,Citigroup Inc
+IDXX,0.252,568520.4,IDEXX Laboratories Inc
+BALL,0.249,560451.28,Ball Corp
+MAR,0.245,550791.36,Marriott International Inc/MD
+FWONK,0.24,539951.5,Liberty Media Corp-Liberty For
+INTU,0.237,533225.51,Intuit Inc
+STX,0.236,532144.71,Seagate Technology Holdings PL
+JPM,0.229,514880.16,JPMorgan Chase &amp; Co
+BAC,0.222,498942.08,Bank of America Corp
+AMGN,0.22,495876.96,Amgen Inc
+DELL,0.218,491748.6,Dell Technologies Inc
+BLK,0.213,479507.25,Blackrock Inc
+SCHW,0.209,471163.36,Charles Schwab Corp/The
+OSK,0.201,451548.58,Oshkosh Corp
+ST,0.197,444363.38,Sensata Technologies Holding P
+MO,0.192,432396.25,Altria Group Inc
+ELAN,0.19,428142.96,Elanco Animal Health Inc
+SYY,0.189,426037.5,Sysco Corp
+INTC,0.187,421187.2,Intel Corp
+PWR,0.186,419668.8,Quanta Services Inc
+DPZ,0.184,414552.0,Domino's Pizza Inc
+F,0.182,409685.15,Ford Motor Co
+BK,0.18,404710.62,Bank of New York Mellon Corp/T
+ALL,0.18,405840.96,Allstate Corp/The
+AMCR,0.179,403349.1,Amcor PLC
+VRT,0.177,399098.28,Vertiv Holdings Co
+MCHP,0.175,394634.96,Microchip Technology Inc
+MMC,0.174,392458.8,Marsh &amp; McLennan Cos Inc
+TT,0.173,390169.72,Trane Technologies PLC
+MA,0.172,387176.66,Mastercard Inc
+TJX,0.171,385659.27,TJX Cos Inc/The
+DD,0.171,384652.72,DuPont de Nemours Inc
+CL,0.171,384779.7,Colgate-Palmolive Co
+GLW,0.167,375965.91,Corning Inc
+MDT,0.164,368293.25,Medtronic PLC
+CI,0.163,367604.96,Cigna Group/The
+BX,0.162,365423.94,Blackstone Inc
+ANET,0.161,363405.12,Arista Networks Inc
+VZ,0.159,358318.87,Verizon Communications Inc
+IT,0.159,358947.36,Gartner Inc
+MHK,0.156,351004.32,Mohawk Industries Inc
+SG,0.149,335186.88,Sweetgreen Inc
+KMX,0.146,328388.06,CarMax Inc
+TXN,0.144,324717.68,Texas Instruments Inc
+AMD,0.142,318707.4,Advanced Micro Devices Inc
+VRTX,0.136,305407.2,Vertex Pharmaceuticals Inc
+LOW,0.136,306180.6,Lowe's Cos Inc
+PFE,0.136,306151.2,Pfizer Inc
+PENN,0.135,304165.27,Penn Entertainment Inc
+CTVA,0.132,297821.88,Corteva Inc
+PEP,0.132,296693.88,PepsiCo Inc
+CMCSA,0.128,287197.43,Comcast Corp
+MRK,0.127,286005.08,Merck &amp; Co Inc
+ZBH,0.126,283663.1,Zimmer Biomet Holdings Inc
+MCD,0.125,281651.88,McDonald's Corp
+UPS,0.12,270822.02,United Parcel Service Inc
+SYK,0.119,268237.14,Stryker Corp
+CAT,0.117,263594.59,Caterpillar Inc
+UBER,0.112,251910.0,Uber Technologies Inc
+ROP,0.112,251676.96,Roper Technologies Inc
+ISRG,0.111,248881.78,Intuitive Surgical Inc
+QCOM,0.111,249878.94,QUALCOMM Inc
+TGT,0.11,247414.2,Target Corp
+ORCL,0.108,242679.3,Oracle Corp
+NVS,0.108,242383.03,Novartis AG
+BSX,0.106,238879.84,Boston Scientific Corp
+ECL,0.106,239262.72,Ecolab Inc
+AMP,0.105,236976.12,Ameriprise Financial Inc
+BBWI,0.104,234856.44,Bath &amp; Body Works Inc
+FHN,0.103,231461.6,First Horizon Corp
+BAX,0.1,224889.56,Baxter International Inc
+DE,0.1,226278.05,Deere &amp; Co
+NKE,0.098,221644.8,NIKE Inc
+ITW,0.098,220794.25,Illinois Tool Works Inc
+BR,0.097,217754.88,Broadridge Financial Solutions
+RSG,0.097,218989.68,Republic Services Inc
+FITB,0.097,219140.64,Fifth Third Bancorp
+AJG,0.095,213199.92,Arthur J Gallagher &amp; Co
+HBAN,0.095,213405.08,Huntington Bancshares Inc/OH
+UNH,0.094,211203.69,UnitedHealth Group Inc
+AFL,0.094,210709.08,Aflac Inc
+PNC,0.093,209722.5,PNC Financial Services Group I
+LIN,0.093,209254.28,Linde PLC
+QSR,0.091,206029.32,Restaurant Brands Internationa
+ADP,0.091,205394.4,Automatic Data Processing Inc
+UNP,0.091,205691.52,Union Pacific Corp
+KLAC,0.091,205124.46,KLA Corp
+MODG,0.091,205178.4,Topgolf Callaway Brands Corp
+MMM,0.09,202783.68,3M Co
+AME,0.089,201408.48,AMETEK Inc
+CTAS,0.088,197908.56,Cintas Corp
+GD,0.087,195995.52,General Dynamics Corp
+PRU,0.085,192210.16,Prudential Financial Inc
+APD,0.084,190108.44,Air Products and Chemicals Inc
+MSI,0.083,187945.62,Motorola Solutions Inc
+MDLZ,0.08,180199.68,Mondelez International Inc
+EMR,0.079,177595.56,Emerson Electric Co
+HPE,0.079,177853.65,Hewlett Packard Enterprise Co
+PPG,0.079,177222.5,PPG Industries Inc
+D,0.078,175946.76,Dominion Energy Inc
+HPQ,0.073,164004.3,HP Inc
+CHX,0.072,161037.72,ChampionX Corp
+CPRT,0.068,153098.4,Copart Inc
+ODFL,0.064,144122.4,Old Dominion Freight Line Inc
+ROST,0.063,142762.02,Ross Stores Inc

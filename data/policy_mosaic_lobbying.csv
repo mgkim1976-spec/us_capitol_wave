@@ -1,0 +1,16 @@
+ticker,client,lobby_2024,lobby_2025,변화배수,이슈,법안
+AMZN,Amazon.com,21130000.0,24985000.0,1.2,Taxation/Internal Revenue Code·Trade (domestic/foreign)·Labor Issues/Antitrust/Workplace,H.Con.Res.14 H.J.Res.64 H.R.1 H.R.1026 H.R.1062 H.R.1574
+AAPL,Apple Inc,10670000.0,21280000.0,2.0,Trade (domestic/foreign)·Copyright/Patent/Trademark·Labor Issues/Antitrust/Workplace,H.R.1 H.R.1574 H.R.3149 H.R.3160 H.R.3209 H.R.4203
+T,AT&T,17041000.0,18199500.0,1.1,Telecommunications·Budget/Appropriations·Health Issues,H.Con.Res.14 H.R.1 H.R.1151 H.R.1343 H.R.1347 H.R.1519
+MSFT,Microsoft,13439000.0,12942500.0,1.0,Computer Industry·Science/Technology·Telecommunications,H.Con.Res.14 H.R.1 H.R.1218 H.R.1990 H.R.261 H.R.33
+PLTR,Palantir,8020000.0,9595000.0,1.2,Defense·Science/Technology·Aviation/Airlines/Airports,H.Con.Res.14 H.R.1 H.R.3838 H.R.4016 S.1071 S.2296
+NVDA,NVIDIA,640000.0,9340000.0,14.6,Trade (domestic/foreign)·Computer Industry·Defense,H.R.3447 H.R.3838 H.R.5885 S.1705 S.2296
+JPM,JPMorgan Chase,5490000.0,6680000.0,1.2,Financial Institutions/Investments/Securities·Banking·Taxation/Internal Revenue Code,H.Con.Res.14 H.J.Res.59 H.R.1 H.R.1319 H.R.1479 H.R.1944
+AMD,Advanced Micro Devices,3260000.0,6120000.0,1.9,Trade (domestic/foreign)·Taxation/Internal Revenue Code·Manufacturing,H.R.3447 H.R.5885 H.R.802 S.1705 S.2296
+AMAT,Applied Materials,3350000.0,4750000.0,1.4,Trade (domestic/foreign)·Manufacturing·Taxation/Internal Revenue Code,H.R.1 H.R.1990 H.R.3204 H.R.6207 S.1639 S.597
+INTC,Intel Corporation,7430000.0,4135000.0,0.6,Copyright/Patent/Trademark·Budget/Appropriations·Defense,H.R.1968 H.R.1990 H.R.3447 H.R.3838 H.R.4016 H.R.4779
+AVGO,Broadcom,3480000.0,3210000.0,0.9,Computer Industry·Budget/Appropriations·Telecommunications,H.R.1 H.R.3838 H.R.4016 H.R.5342 H.R.8752 H.R.8774
+UTHR,United Therapeutics,0.0,80000.0,,Health Issues·Postal,
+ANET,Arista Networks,0.0,30000.0,,Trade (domestic/foreign),
+GOOG,Alphabet,0.0,0.0,,,
+FIX,Comfort Systems,0.0,0.0,,,

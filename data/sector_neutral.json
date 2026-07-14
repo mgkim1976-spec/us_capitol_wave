@@ -1,0 +1,212 @@
+{
+  "바이든": {
+    "NANC": {
+      "weights": {
+        "XLK": 45.61,
+        "XLC": 14.72,
+        "XLY": 10.06,
+        "XLP": 2.4,
+        "XLE": 1.43,
+        "XLF": 12.7,
+        "XLV": 6.9,
+        "XLI": 3.32,
+        "XLB": 2.85,
+        "XLRE": 0.0,
+        "XLU": 0.0
+      },
+      "alpha_ann": 1.25,
+      "t_alpha": 0.41,
+      "r2": 0.925,
+      "replica_cum": 53.55,
+      "actual_cum": 56.6,
+      "selection": 3.05
+    },
+    "GOP": {
+      "weights": {
+        "XLK": 16.78,
+        "XLC": 2.51,
+        "XLY": 5.49,
+        "XLP": 0.14,
+        "XLE": 9.93,
+        "XLF": 18.79,
+        "XLV": 5.79,
+        "XLI": 25.1,
+        "XLB": 13.1,
+        "XLRE": 0.58,
+        "XLU": 1.8
+      },
+      "alpha_ann": -1.76,
+      "t_alpha": -0.75,
+      "r2": 0.937,
+      "replica_cum": 36.66,
+      "actual_cum": 31.13,
+      "selection": -5.53
+    },
+    "SPY": {
+      "weights": {
+        "XLK": 32.09,
+        "XLC": 11.49,
+        "XLY": 10.07,
+        "XLP": 5.77,
+        "XLE": 4.57,
+        "XLF": 11.88,
+        "XLV": 13.69,
+        "XLI": 5.73,
+        "XLB": 0.57,
+        "XLRE": 1.25,
+        "XLU": 2.89
+      },
+      "alpha_ann": 1.42,
+      "t_alpha": 1.37,
+      "r2": 0.988,
+      "replica_cum": 44.69,
+      "actual_cum": 47.99,
+      "selection": 3.3
+    },
+    "gap": {
+      "total": 25.47,
+      "allocation": 16.89,
+      "selection": 8.58
+    }
+  },
+  "트럼프2기": {
+    "NANC": {
+      "weights": {
+        "XLK": 43.01,
+        "XLC": 16.83,
+        "XLY": 11.04,
+        "XLP": 0.85,
+        "XLE": 0.0,
+        "XLF": 13.51,
+        "XLV": 11.02,
+        "XLI": 1.02,
+        "XLB": 0.0,
+        "XLRE": 0.0,
+        "XLU": 2.73
+      },
+      "alpha_ann": -1.74,
+      "t_alpha": -0.51,
+      "r2": 0.958,
+      "replica_cum": 31.16,
+      "actual_cum": 25.57,
+      "selection": -5.59
+    },
+    "GOP": {
+      "weights": {
+        "XLK": 27.65,
+        "XLC": 0.0,
+        "XLY": 0.0,
+        "XLP": 7.68,
+        "XLE": 0.0,
+        "XLF": 11.14,
+        "XLV": 3.67,
+        "XLI": 19.13,
+        "XLB": 7.48,
+        "XLRE": 7.63,
+        "XLU": 15.62
+      },
+      "alpha_ann": 8.83,
+      "t_alpha": 1.03,
+      "r2": 0.712,
+      "replica_cum": 28.74,
+      "actual_cum": 36.86,
+      "selection": 8.12
+    },
+    "SPY": {
+      "weights": {
+        "XLK": 36.38,
+        "XLC": 13.99,
+        "XLY": 12.79,
+        "XLP": 6.0,
+        "XLE": 3.62,
+        "XLF": 10.5,
+        "XLV": 8.36,
+        "XLI": 5.75,
+        "XLB": 0.45,
+        "XLRE": 0.0,
+        "XLU": 2.17
+      },
+      "alpha_ann": -1.31,
+      "t_alpha": -0.73,
+      "r2": 0.987,
+      "replica_cum": 30.02,
+      "actual_cum": 27.86,
+      "selection": -2.16
+    },
+    "gap": {
+      "total": -11.29,
+      "allocation": 2.42,
+      "selection": -13.71
+    }
+  },
+  "전체": {
+    "NANC": {
+      "weights": {
+        "XLK": 44.13,
+        "XLC": 15.7,
+        "XLY": 10.37,
+        "XLP": 2.32,
+        "XLE": 0.0,
+        "XLF": 13.87,
+        "XLV": 9.57,
+        "XLI": 3.42,
+        "XLB": 0.09,
+        "XLRE": 0.0,
+        "XLU": 0.52
+      },
+      "alpha_ann": -0.16,
+      "t_alpha": -0.07,
+      "r2": 0.94,
+      "replica_cum": 100.73,
+      "actual_cum": 94.64,
+      "selection": -6.09
+    },
+    "GOP": {
+      "weights": {
+        "XLK": 21.33,
+        "XLC": 0.0,
+        "XLY": 1.91,
+        "XLP": 4.61,
+        "XLE": 5.06,
+        "XLF": 17.12,
+        "XLV": 3.97,
+        "XLI": 25.57,
+        "XLB": 10.44,
+        "XLRE": 2.03,
+        "XLU": 7.96
+      },
+      "alpha_ann": 3.17,
+      "t_alpha": 0.83,
+      "r2": 0.791,
+      "replica_cum": 72.0,
+      "actual_cum": 77.93,
+      "selection": 5.93
+    },
+    "SPY": {
+      "weights": {
+        "XLK": 34.28,
+        "XLC": 11.72,
+        "XLY": 11.27,
+        "XLP": 4.95,
+        "XLE": 4.21,
+        "XLF": 12.01,
+        "XLV": 10.5,
+        "XLI": 6.59,
+        "XLB": 0.61,
+        "XLRE": 0.33,
+        "XLU": 3.54
+      },
+      "alpha_ann": -0.02,
+      "t_alpha": -0.02,
+      "r2": 0.985,
+      "replica_cum": 88.35,
+      "actual_cum": 87.34,
+      "selection": -1.01
+    },
+    "gap": {
+      "total": 16.71,
+      "allocation": 28.74,
+      "selection": -12.02
+    }
+  }
+}

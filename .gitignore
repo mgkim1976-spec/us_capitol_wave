@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+*.bak
+logs/
+data/ptr_cache/
+data/ptr_prices.csv

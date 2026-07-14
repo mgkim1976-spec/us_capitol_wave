@@ -1,0 +1,848 @@
+의원,정당,섹터,종목,관할위원회,거래수,순매수K,기업로비M,PAC후원,score
+Daniel S Sullivan,R,소재,RPM,Senate Committee on Environment and Public,11,-503,0.0,예,17
+Josh Gottheimer,D,금융,V,House Committee on Financial Services,8,64,18.4,예,16
+Josh Gottheimer,D,금융,GS,House Committee on Financial Services,5,24,5.5,예,13
+Blake Moore,D,헬스케어,HQY,House Committee on Ways and Means,6,16,0.0,예,12
+Blake Moore,D,헬스케어,JNJ,House Committee on Ways and Means,6,32,0.0,예,12
+Josh Gottheimer,D,금융,COF,House Committee on Financial Services,5,40,0.0,예,11
+Bruce Westerman,R,산업재,DE,House Committee on Transportation and Infr,3,8,0.0,예,9
+Byron Donalds,R,금융,HOOD,House Committee on Financial Services,3,8,0.0,예,9
+Josh Gottheimer,D,금융,SPGI,House Committee on Financial Services,3,8,0.0,예,9
+Julie Johnson,D,산업재,RTX,House Committee on Homeland Security,3,-8,0.0,예,9
+Zoe Lofgren,D,기술/반도체,ACN,House Committee on the Judiciary,3,8,0.0,예,9
+Zoe Lofgren,D,기술/반도체,CSCO,House Committee on the Judiciary,3,8,0.0,예,9
+Bruce Westerman,R,에너지,COP,House Committee on Natural Resources,2,0,0.0,예,8
+Bruce Westerman,R,소재,FCX,House Committee on Natural Resources,2,0,0.0,예,8
+Bruce Westerman,R,산업재,UNP,House Committee on Transportation and Infr,2,0,0.0,예,8
+Bruce Westerman,R,에너지,XOM,House Committee on Natural Resources,2,0,0.0,예,8
+Jared Moskowitz,D,커뮤니케이션,DIS,House Committee on the Judiciary,2,0,0.0,예,8
+John Curtis,R,산업재,DE,"Senate Committee on Commerce, Science, and",2,0,0.0,예,8
+John James,R,에너지,COP,House Committee on Energy and Commerce,2,0,0.0,예,8
+John James,R,헬스케어,JNJ,House Committee on Energy and Commerce,2,0,0.0,예,8
+Julie Johnson,D,산업재,DE,House Committee on Homeland Security,2,-16,0.0,예,8
+Julie Johnson,D,산업재,LHX,House Committee on Homeland Security,2,-16,0.0,예,8
+Julie Johnson,D,산업재,UNP,House Committee on Homeland Security,2,0,0.0,예,8
+Adam Smith,D,산업재,DE,House Committee on Armed Services,1,-8,0.0,예,7
+Adam Smith,D,산업재,UNP,House Committee on Armed Services,1,-8,0.0,예,7
+"Angus S King, Jr.",D,산업재,HON,Senate Committee on Armed Services,1,8,0.0,예,7
+August Lee Pfluger,R,에너지,EPD,House Committee on Energy and Commerce,1,0,0.0,예,7
+Deborah K. Ross,D,커뮤니케이션,DIS,House Committee on the Judiciary,1,0,0.0,예,7
+Debra S Fischer,R,기술/반도체,CSCO,"Senate Committee on Commerce, Science, and",1,-8,0.0,예,7
+Greg Stanton,D,산업재,UNP,House Committee on Transportation and Infr,1,8,0.0,예,7
+John W Hickenlooper,D,기술/반도체,INTU,"Senate Committee on Commerce, Science, and",1,175,0.0,예,7
+Julie Johnson,D,산업재,DAL,House Committee on Homeland Security,1,-8,0.0,예,7
+Julie Johnson,D,산업재,RSG,House Committee on Homeland Security,1,-8,0.0,예,7
+Julie Johnson,D,산업재,WM,House Committee on Homeland Security,1,-8,0.0,예,7
+Mike Kelly,R,소재,CLF,Senate Committee on Environment and Public,1,0,0.0,예,7
+Mike Kelly,R,헬스케어,EW,House Committee on Ways and Means,1,-8,0.0,예,7
+Richard W. Allen,R,커뮤니케이션,VZ,House Committee on Energy and Commerce,1,8,0.0,예,7
+Rick Larsen,D,산업재,FDX,House Committee on Transportation and Infr,1,8,0.0,예,7
+Rick Larsen,D,산업재,GD,House Committee on Transportation and Infr,1,-8,0.0,예,7
+Robert J. Wittman,R,산업재,GE,House Committee on Armed Services,1,8,0.0,예,7
+Zoe Lofgren,D,기술/반도체,AMAT,House Committee on the Judiciary,1,8,0.0,예,7
+Zoe Lofgren,D,기술/반도체,INTC,House Committee on the Judiciary,1,-8,0.0,예,7
+Shelley M Capito,R,기술/반도체,MSFT,"Senate Committee on Commerce, Science, and",31,-306,12.9,,33
+Shelley M Capito,R,기술/반도체,AAPL,"Senate Committee on Commerce, Science, and",18,-121,21.8,,20
+John W Hickenlooper,D,커뮤니케이션,FWONK,"Senate Committee on Commerce, Science, and",17,-700,0.0,,17
+Patrick Fallon,R,산업재,FDX,House Committee on Armed Services,16,-72,0.0,,16
+Kevin Hern,R,헬스케어,JNJ,House Committee on Ways and Means,13,88,0.0,,13
+Patrick Fallon,R,산업재,BA,House Committee on Armed Services,13,-231,0.0,,13
+John W Hickenlooper,D,커뮤니케이션,LBRDK,"Senate Committee on Commerce, Science, and",12,-625,0.0,,12
+Donald Sternoff Beyer,D,헬스케어,NVS,House Committee on Ways and Means,11,48,0.0,,11
+Josh Gottheimer,D,금융,SCHW,House Committee on Financial Services,11,72,0.0,,11
+Kevin Hern,R,헬스케어,UNH,House Committee on Ways and Means,11,-678,0.0,,11
+Gilbert Cisneros,D,산업재,VRSK,House Committee on Armed Services,10,32,0.0,,10
+John W Hickenlooper,D,커뮤니케이션,BATRK,"Senate Committee on Commerce, Science, and",10,-457,0.0,,10
+Thomas H Tuberville,R,산업재,MMM,Senate Committee on Armed Services,10,48,0.0,,10
+Austin Scott,R,산업재,GE,House Committee on Armed Services,9,-56,0.0,,9
+Donald Sternoff Beyer,D,헬스케어,UNH,House Committee on Ways and Means,9,8,0.0,,9
+Josh Gottheimer,D,금융,MA,House Committee on Financial Services,9,40,0.0,,9
+Lisa McClain,R,금융,HDB,House Committee on Financial Services,9,24,0.0,,9
+Blake Moore,D,기술/반도체,AAPL,House Committee on the Judiciary,6,-8,21.8,,8
+Blake Moore,D,기술/반도체,MSFT,House Committee on the Judiciary,6,32,12.9,,8
+Donald Sternoff Beyer,D,헬스케어,EDIT,House Committee on Ways and Means,8,24,0.0,,8
+Donald Sternoff Beyer,D,헬스케어,ILMN,House Committee on Ways and Means,8,0,0.0,,8
+Gilbert Cisneros,D,산업재,GE,House Committee on Armed Services,8,24,0.0,,8
+Gilbert Cisneros,D,산업재,LUV,House Committee on Armed Services,8,24,0.0,,8
+Jared Moskowitz,D,기술/반도체,AVGO,House Committee on the Judiciary,8,32,0.0,,8
+Josh Gottheimer,D,금융,PYPL,House Committee on Financial Services,6,32,3.0,,8
+Lloyd Doggett,D,헬스케어,JNJ,House Committee on Ways and Means,8,64,0.0,,8
+Thomas H Tuberville,R,헬스케어,ABBV,"Senate Committee on Health, Education, Lab",8,-16,0.0,,8
+Daniel S Sullivan,R,기술/반도체,MSFT,"Senate Committee on Commerce, Science, and",5,-77,12.9,,7
+Gilbert Cisneros,D,산업재,UPS,House Committee on Armed Services,7,24,0.0,,7
+Greg Landsman,D,기술/반도체,CRWD,House Committee on Energy and Commerce,7,8,0.0,,7
+"Jerry Moran,",R,기술/반도체,AAPL,"Senate Committee on Commerce, Science, and",5,-40,21.8,,7
+Sheldon Whitehouse,D,기술/반도체,NVDA,Senate Committee on the Judiciary,7,-163,0.0,,7
+Shelley M Capito,R,기술/반도체,AVGO,"Senate Committee on Commerce, Science, and",7,8,0.0,,7
+Thomas H Tuberville,R,헬스케어,HUMA,"Senate Committee on Health, Education, Lab",7,-10,0.0,,7
+Daniel S Sullivan,R,커뮤니케이션,GOOG,"Senate Committee on Commerce, Science, and",6,-65,0.0,,6
+Donald Sternoff Beyer,D,헬스케어,NTLA,House Committee on Ways and Means,6,8,0.0,,6
+Gilbert Cisneros,D,산업재,APG,House Committee on Armed Services,6,48,0.0,,6
+Gilbert Cisneros,D,산업재,PWR,House Committee on Armed Services,6,73,0.0,,6
+Greg Landsman,D,헬스케어,ISRG,House Committee on Energy and Commerce,6,0,0.0,,6
+Jared Moskowitz,D,기술/반도체,NVDA,House Committee on the Judiciary,6,48,0.0,,6
+Jared Moskowitz,D,기술/반도체,ORCL,House Committee on the Judiciary,6,24,0.0,,6
+"Jerry Moran,",R,기술/반도체,MSFT,"Senate Committee on Commerce, Science, and",4,-32,12.9,,6
+Josh Gottheimer,D,금융,BX,House Committee on Financial Services,6,24,0.0,,6
+Josh Gottheimer,D,금융,ICE,House Committee on Financial Services,4,0,1.8,,6
+Julie Johnson,D,산업재,MMM,House Committee on Homeland Security,6,32,0.0,,6
+Kevin Hern,R,헬스케어,MDT,House Committee on Ways and Means,6,-33,0.0,,6
+Lisa McClain,R,금융,JPM,House Committee on Financial Services,6,16,0.0,,6
+Sheldon Whitehouse,D,커뮤니케이션,T,Senate Committee on the Judiciary,6,-8,0.0,,6
+Thomas H Tuberville,R,헬스케어,BMY,"Senate Committee on Health, Education, Lab",6,-16,0.0,,6
+Thomas Suozzi,D,헬스케어,CVS,House Committee on Ways and Means,6,8,0.0,,6
+August Lee Pfluger,R,커뮤니케이션,WBD,House Committee on Energy and Commerce,5,-41,0.0,,5
+Austin Scott,R,산업재,GEV,House Committee on Armed Services,5,-40,0.0,,5
+Byron Donalds,R,금융,BRO,House Committee on Financial Services,5,8,0.0,,5
+Byron Donalds,R,금융,PYPL,House Committee on Financial Services,3,8,3.0,,5
+Daniel S Sullivan,R,기술/반도체,AAPL,"Senate Committee on Commerce, Science, and",3,-57,21.8,,5
+David J. Taylor,R,산업재,PH,House Committee on Transportation and Infr,5,-8,0.0,,5
+Gilbert Cisneros,D,산업재,RTX,House Committee on Armed Services,5,32,0.0,,5
+Greg Landsman,D,에너지,FANG,House Committee on Energy and Commerce,5,-8,0.0,,5
+Greg Landsman,D,기술/반도체,MSFT,House Committee on Energy and Commerce,3,0,12.9,,5
+Jared Moskowitz,D,커뮤니케이션,GOOG,House Committee on the Judiciary,5,24,0.0,,5
+Jared Moskowitz,D,기술/반도체,TXN,House Committee on the Judiciary,5,16,0.0,,5
+Josh Gottheimer,D,금융,HMN,House Committee on Financial Services,5,24,0.0,,5
+Josh Gottheimer,D,금융,MKTX,House Committee on Financial Services,5,8,0.0,,5
+Julie Johnson,D,산업재,ETN,House Committee on Homeland Security,5,-8,0.0,,5
+Katie Britt,R,기술/반도체,AAPL,Senate Committee on the Judiciary,3,8,21.8,,5
+Patrick Fallon,R,산업재,DE,House Committee on Armed Services,5,-16,0.0,,5
+Sheldon Whitehouse,D,기술/반도체,AAPL,Senate Committee on the Judiciary,3,-98,21.8,,5
+Sheldon Whitehouse,D,커뮤니케이션,VZ,Senate Committee on the Judiciary,5,-8,0.0,,5
+Shelley M Capito,R,기술/반도체,INTC,"Senate Committee on Commerce, Science, and",5,-65,0.0,,5
+Shelley M Capito,R,에너지,XOM,Senate Committee on Environment and Public,5,-40,0.0,,5
+Thomas H Tuberville,R,산업재,CSX,Senate Committee on Armed Services,5,-73,0.0,,5
+Thomas H Tuberville,R,헬스케어,GILD,"Senate Committee on Health, Education, Lab",5,-8,0.0,,5
+Thomas H Tuberville,R,헬스케어,IDXX,"Senate Committee on Health, Education, Lab",5,8,0.0,,5
+Thomas H Tuberville,R,헬스케어,LLY,"Senate Committee on Health, Education, Lab",5,-138,0.0,,5
+Thomas H Tuberville,R,산업재,LPX,Senate Committee on Armed Services,5,159,0.0,,5
+Thomas H Tuberville,R,헬스케어,PFE,"Senate Committee on Health, Education, Lab",5,0,0.0,,5
+Thomas H Tuberville,R,헬스케어,REGN,"Senate Committee on Health, Education, Lab",5,8,0.0,,5
+Thomas H Tuberville,R,헬스케어,RMD,"Senate Committee on Health, Education, Lab",5,-8,0.0,,5
+Blake Moore,D,커뮤니케이션,GOOG,House Committee on the Judiciary,4,8,0.0,,4
+Daniel Goldman,D,산업재,CJPRY,House Committee on Homeland Security,4,33,0.0,,4
+Daniel Goldman,D,커뮤니케이션,LUMN,House Committee on the Judiciary,4,-41,0.0,,4
+Daniel S Sullivan,R,기술/반도체,LRCX,"Senate Committee on Commerce, Science, and",4,0,0.0,,4
+David H McCormick,R,금융,GS,"Senate Committee on Banking, Housing, and ",2,-6000,5.5,,4
+David J. Taylor,R,산업재,ETN,House Committee on Transportation and Infr,4,0,0.0,,4
+Donald Sternoff Honorable Beyer,D,헬스케어,NTLA,House Committee on Ways and Means,4,-16,0.0,,4
+Gilbert Cisneros,D,산업재,LMT,House Committee on Armed Services,4,16,0.0,,4
+Gilbert Cisneros,D,산업재,TDG,House Committee on Armed Services,4,32,0.0,,4
+Greg Landsman,D,기술/반도체,AAPL,House Committee on Energy and Commerce,2,8,21.8,,4
+Greg Landsman,D,기술/반도체,CDNS,House Committee on Energy and Commerce,4,0,0.0,,4
+Greg Landsman,D,기술/반도체,UBER,House Committee on Energy and Commerce,4,-16,0.0,,4
+Jared Moskowitz,D,기술/반도체,AAPL,House Committee on the Judiciary,2,16,21.8,,4
+Jared Moskowitz,D,기술/반도체,ACN,House Committee on the Judiciary,4,16,0.0,,4
+Jared Moskowitz,D,기술/반도체,ADI,House Committee on the Judiciary,4,32,0.0,,4
+Jared Moskowitz,D,기술/반도체,MSFT,House Committee on the Judiciary,2,16,12.9,,4
+Jared Moskowitz,D,커뮤니케이션,TMUS,House Committee on the Judiciary,4,16,0.0,,4
+Jefferson Shreve,R,산업재,GE,House Committee on Transportation and Infr,4,0,0.0,,4
+"Jerry Moran,",R,커뮤니케이션,GOOG,"Senate Committee on Commerce, Science, and",4,-16,0.0,,4
+"Jerry Moran,",R,기술/반도체,INTC,"Senate Committee on Commerce, Science, and",4,16,0.0,,4
+"Jerry Moran,",R,커뮤니케이션,VZ,"Senate Committee on Commerce, Science, and",4,-16,0.0,,4
+John Fetterman,D,기술/반도체,MSFT,"Senate Committee on Commerce, Science, and",2,16,12.9,,4
+John James,R,기술/반도체,AAPL,House Committee on Energy and Commerce,2,0,21.8,,4
+John James,R,기술/반도체,MSFT,House Committee on Energy and Commerce,2,0,12.9,,4
+John James,R,기술/반도체,NVDA,House Committee on Energy and Commerce,4,16,0.0,,4
+John W Hickenlooper,D,커뮤니케이션,LBRDA,"Senate Committee on Commerce, Science, and",4,-67,0.0,,4
+Josh Gottheimer,D,금융,HDB,House Committee on Financial Services,4,-8,0.0,,4
+Josh Gottheimer,D,금융,KKR,House Committee on Financial Services,4,16,0.0,,4
+Katie Britt,R,금융,V,"Senate Committee on Banking, Housing, and ",2,16,18.4,,4
+Kevin Hern,R,헬스케어,IQV,House Committee on Ways and Means,4,8,0.0,,4
+Laurel Mrs Lee,R,기술/반도체,AAPL,House Committee on the Judiciary,2,0,21.8,,4
+Lisa McClain,R,금융,AXP,House Committee on Financial Services,4,0,0.0,,4
+Lisa McClain,R,금융,BAC,House Committee on Financial Services,4,0,0.0,,4
+Lisa McClain,R,금융,BK,House Committee on Financial Services,4,0,0.0,,4
+Lisa McClain,R,금융,BRO,House Committee on Financial Services,4,0,0.0,,4
+Lisa McClain,R,금융,GS,House Committee on Financial Services,2,0,5.5,,4
+Lisa McClain,R,금융,NTRS,House Committee on Financial Services,4,0,0.0,,4
+Lisa McClain,R,금융,PYPL,House Committee on Financial Services,2,0,3.0,,4
+Lisa McClain,R,금융,RF,House Committee on Financial Services,4,0,0.0,,4
+Lisa McClain,R,금융,V,House Committee on Financial Services,2,0,18.4,,4
+Patrick Fallon,R,산업재,CAT,House Committee on Armed Services,4,-16,0.0,,4
+Richard Dean Dr McCormick,R,기술/반도체,MSFT,"House Committee on Science, Space, and Tec",2,16,12.9,,4
+Richard W. Allen,R,커뮤니케이션,NFLX,House Committee on Energy and Commerce,2,-8,3.9,,4
+Ritchie John Torres,D,금융,ICE,House Committee on Financial Services,2,0,1.8,,4
+Robert J. Wittman,R,소재,IFF,House Committee on Natural Resources,4,0,0.0,,4
+Sheldon Whitehouse,D,기술/반도체,MSFT,Senate Committee on the Judiciary,2,-24,12.9,,4
+Shelley M Capito,R,기술/반도체,ACN,"Senate Committee on Commerce, Science, and",4,-16,0.0,,4
+Shelley M Capito,R,커뮤니케이션,GOOGL,"Senate Committee on Commerce, Science, and",4,16,0.0,,4
+Shelley M Capito,R,산업재,GWW,"Senate Committee on Commerce, Science, and",4,-16,0.0,,4
+Steve Cohen,D,기술/반도체,MSFT,House Committee on the Judiciary,2,0,12.9,,4
+Thomas H Tuberville,R,헬스케어,AMGN,"Senate Committee on Health, Education, Lab",4,-49,0.0,,4
+Thomas H Tuberville,R,산업재,CTAS,Senate Committee on Armed Services,4,-65,0.0,,4
+Thomas H Tuberville,R,산업재,HON,Senate Committee on Armed Services,4,-41,0.0,,4
+Thomas H Tuberville,R,산업재,ITW,Senate Committee on Armed Services,4,-16,0.0,,4
+Thomas H Tuberville,R,헬스케어,JNJ,"Senate Committee on Health, Education, Lab",4,-41,0.0,,4
+Thomas H Tuberville,R,산업재,ODFL,Senate Committee on Armed Services,4,0,0.0,,4
+Thomas H Tuberville,R,산업재,ROK,Senate Committee on Armed Services,4,0,0.0,,4
+Thomas H. Kean,R,헬스케어,ABT,House Committee on Energy and Commerce,4,32,0.0,,4
+Tina Smith,D,헬스케어,PODD,Senate Committee on Finance,4,-800,0.0,,4
+Zoe Lofgren,D,기술/반도체,QCOM,House Committee on the Judiciary,4,16,0.0,,4
+Adam B Schiff,D,기술/반도체,AAPL,Senate Committee on the Judiciary,1,-33,21.8,,3
+August Lee Pfluger,R,커뮤니케이션,SIRI,House Committee on Energy and Commerce,3,-16,0.0,,3
+Blake Moore,D,커뮤니케이션,DIS,House Committee on the Judiciary,3,175,0.0,,3
+Brian Mast,R,산업재,SPCE,House Committee on Transportation and Infr,3,-41,0.0,,3
+Bruce Westerman,R,산업재,CAT,House Committee on Transportation and Infr,3,8,0.0,,3
+Bruce Westerman,R,산업재,RTX,House Committee on Transportation and Infr,3,8,0.0,,3
+Byron Donalds,R,금융,PGR,House Committee on Financial Services,3,8,0.0,,3
+Byron Donalds,R,금융,V,House Committee on Financial Services,1,8,18.4,,3
+Christopher A Coons,D,기술/반도체,MSFT,Senate Committee on the Judiciary,1,-8,12.9,,3
+Daniel Crenshaw,R,기술/반도체,AAPL,House Committee on Energy and Commerce,1,8,21.8,,3
+Daniel Goldman,D,커뮤니케이션,DNTUY,House Committee on the Judiciary,3,33,0.0,,3
+Daniel Goldman,D,산업재,FANUY,House Committee on Homeland Security,3,-16,0.0,,3
+Daniel Goldman,D,기술/반도체,FIS,House Committee on the Judiciary,3,33,0.0,,3
+Daniel Goldman,D,산업재,LHX,House Committee on Homeland Security,3,8,0.0,,3
+Daniel Goldman,D,기술/반도체,TEL,House Committee on the Judiciary,3,-41,0.0,,3
+Daniel Goldman,D,커뮤니케이션,VOD,House Committee on the Judiciary,3,0,0.0,,3
+Daniel Goldman,D,커뮤니케이션,VZ,House Committee on the Judiciary,3,-75,0.0,,3
+Daniel Meuser,R,금융,V,House Committee on Financial Services,1,8,18.4,,3
+Daniel S Sullivan,R,기술/반도체,ADBE,"Senate Committee on Commerce, Science, and",3,-8,0.0,,3
+Daniel S Sullivan,R,커뮤니케이션,META,"Senate Committee on Commerce, Science, and",3,-8,0.0,,3
+Donald Sternoff Beyer,D,헬스케어,CVS,House Committee on Ways and Means,3,-24,0.0,,3
+George Whitesides,D,기술/반도체,MSFT,"House Committee on Science, Space, and Tec",1,0,12.9,,3
+Gilbert Cisneros,D,산업재,ETN,House Committee on Armed Services,3,24,0.0,,3
+Gilbert Cisneros,D,산업재,GEV,House Committee on Armed Services,3,24,0.0,,3
+Gilbert Cisneros,D,산업재,IR,House Committee on Armed Services,3,16,0.0,,3
+Gilbert Cisneros,D,산업재,LHX,House Committee on Armed Services,3,24,0.0,,3
+Gilbert Cisneros,D,산업재,VRT,House Committee on Armed Services,3,24,0.0,,3
+Greg Landsman,D,기술/반도체,ANET,House Committee on Energy and Commerce,3,0,0.0,,3
+Greg Landsman,D,기술/반도체,CRM,House Committee on Energy and Commerce,3,-33,0.0,,3
+Greg Landsman,D,커뮤니케이션,GOOGL,House Committee on Energy and Commerce,3,0,0.0,,3
+Greg Landsman,D,에너지,XOM,House Committee on Energy and Commerce,3,-8,0.0,,3
+Jared Moskowitz,D,커뮤니케이션,CMCSA,House Committee on the Judiciary,3,-24,0.0,,3
+Jared Moskowitz,D,기술/반도체,INTC,House Committee on the Judiciary,3,0,0.0,,3
+Jared Moskowitz,D,기술/반도체,QCOM,House Committee on the Judiciary,3,16,0.0,,3
+Jared Moskowitz,D,기술/반도체,ROP,House Committee on the Judiciary,3,-8,0.0,,3
+Jefferson Shreve,R,산업재,CAT,House Committee on Transportation and Infr,3,0,0.0,,3
+Jefferson Shreve,R,산업재,NSC,House Committee on Transportation and Infr,3,-33,0.0,,3
+Jefferson Shreve,R,산업재,PWR,House Committee on Transportation and Infr,3,0,0.0,,3
+Jefferson Shreve,R,산업재,TDG,House Committee on Transportation and Infr,3,-33,0.0,,3
+Jefferson Shreve,R,산업재,UPS,House Committee on Transportation and Infr,3,0,0.0,,3
+"Jerry Moran,",R,커뮤니케이션,DIS,"Senate Committee on Commerce, Science, and",3,-24,0.0,,3
+"Jerry Moran,",R,기술/반도체,TXN,"Senate Committee on Commerce, Science, and",3,8,0.0,,3
+John Curtis,R,기술/반도체,AMD,"Senate Committee on Commerce, Science, and",3,8,0.0,,3
+John Curtis,R,기술/반도체,MSFT,"Senate Committee on Commerce, Science, and",1,-8,12.9,,3
+John Curtis,R,소재,SHW,Senate Committee on Environment and Public,3,-8,0.0,,3
+John Curtis,R,에너지,VLO,Senate Committee on Environment and Public,3,-8,0.0,,3
+John James,R,소재,APD,House Committee on Energy and Commerce,3,8,0.0,,3
+John James,R,헬스케어,CAH,House Committee on Energy and Commerce,3,8,0.0,,3
+John James,R,커뮤니케이션,EA,House Committee on Energy and Commerce,3,8,0.0,,3
+John James,R,헬스케어,ELV,House Committee on Energy and Commerce,3,8,0.0,,3
+John James,R,헬스케어,MDT,House Committee on Energy and Commerce,3,8,0.0,,3
+John W Hickenlooper,D,기술/반도체,AAPL,"Senate Committee on Commerce, Science, and",1,-375,21.8,,3
+John W Hickenlooper,D,기술/반도체,MSFT,"Senate Committee on Commerce, Science, and",1,-375,12.9,,3
+John W Hickenlooper,D,커뮤니케이션,SIRI,"Senate Committee on Commerce, Science, and",3,-183,0.0,,3
+John W Hickenlooper,D,커뮤니케이션,TTD,"Senate Committee on Commerce, Science, and",3,-33,0.0,,3
+Josh Gottheimer,D,금융,MS,House Committee on Financial Services,3,0,0.0,,3
+Julie Johnson,D,산업재,CARR,House Committee on Homeland Security,3,-8,0.0,,3
+Katie Britt,R,기술/반도체,MSFT,Senate Committee on the Judiciary,1,8,12.9,,3
+Katie Britt,R,기술/반도체,NVDA,Senate Committee on the Judiciary,3,8,0.0,,3
+Kevin Hern,R,헬스케어,AHCO,House Committee on Ways and Means,3,-75,0.0,,3
+Kim Dr Schrier,D,기술/반도체,AAPL,House Committee on Energy and Commerce,1,-375,21.8,,3
+Laurel Lee,R,기술/반도체,AAPL,House Committee on the Judiciary,1,0,21.8,,3
+Maria Elvira Salazar,R,금융,GS,House Committee on Financial Services,1,33,5.5,,3
+Pete Sessions,R,금융,V,House Committee on Financial Services,1,33,18.4,,3
+Richard Dean Dr McCormick,R,기술/반도체,AAPL,"House Committee on Science, Space, and Tec",1,8,21.8,,3
+Richard W. Allen,R,기술/반도체,ACN,House Committee on Energy and Commerce,3,-16,0.0,,3
+Richard W. Allen,R,소재,FCX,House Committee on Energy and Commerce,3,0,0.0,,3
+Richard W. Allen,R,기술/반도체,INTU,House Committee on Energy and Commerce,3,0,0.0,,3
+Richard W. Allen,R,헬스케어,JNJ,House Committee on Energy and Commerce,3,0,0.0,,3
+Richard W. Allen,R,헬스케어,TMO,House Committee on Energy and Commerce,3,8,0.0,,3
+Rob Bresnahan,R,산업재,CAT,House Committee on Transportation and Infr,3,-24,0.0,,3
+Rob Bresnahan,R,산업재,IR,House Committee on Transportation and Infr,3,-8,0.0,,3
+Rob Bresnahan,R,산업재,URI,House Committee on Transportation and Infr,3,-8,0.0,,3
+Ron L Wyden,D,소재,VMC,Senate Committee on Energy and Natural Res,3,183,0.0,,3
+Sheldon Whitehouse,D,기술/반도체,INTC,Senate Committee on the Judiciary,3,-33,0.0,,3
+Sheldon Whitehouse,D,헬스케어,LLY,Senate Committee on Finance,3,73,0.0,,3
+Sheldon Whitehouse,D,커뮤니케이션,NFLX,Senate Committee on the Judiciary,1,-8,3.9,,3
+Shelley M Capito,R,기술/반도체,ADI,"Senate Committee on Commerce, Science, and",3,-24,0.0,,3
+Shelley M Capito,R,커뮤니케이션,CMCSA,"Senate Committee on Commerce, Science, and",3,8,0.0,,3
+Shelley M Capito,R,에너지,CVX,Senate Committee on Environment and Public,3,-8,0.0,,3
+Shelley M Capito,R,기술/반도체,IBM,"Senate Committee on Commerce, Science, and",3,-49,0.0,,3
+Shelley M Capito,R,커뮤니케이션,META,"Senate Committee on Commerce, Science, and",3,24,0.0,,3
+Shelley M Capito,R,산업재,NSC,"Senate Committee on Commerce, Science, and",3,-24,0.0,,3
+Shelley M Capito,R,기술/반도체,PAYX,"Senate Committee on Commerce, Science, and",3,-24,0.0,,3
+Shelley M Capito,R,소재,PPG,Senate Committee on Environment and Public,3,-8,0.0,,3
+Sheri Biggs,R,기술/반도체,AAPL,"House Committee on Science, Space, and Tec",1,0,21.8,,3
+Sheri Biggs,R,기술/반도체,MSFT,"House Committee on Science, Space, and Tec",1,0,12.9,,3
+Susie Lee,R,에너지,OKE,House Committee on Natural Resources,3,24,0.0,,3
+Susie Lee,R,에너지,VLO,House Committee on Natural Resources,3,8,0.0,,3
+Thomas H Tuberville,R,산업재,ALLE,Senate Committee on Armed Services,3,-8,0.0,,3
+Thomas H Tuberville,R,헬스케어,EW,"Senate Committee on Health, Education, Lab",3,-8,0.0,,3
+Thomas H Tuberville,R,헬스케어,GSK,"Senate Committee on Health, Education, Lab",3,8,0.0,,3
+Thomas H Tuberville,R,헬스케어,MRK,"Senate Committee on Health, Education, Lab",3,-8,0.0,,3
+Thomas H Tuberville,R,산업재,NSC,Senate Committee on Armed Services,3,8,0.0,,3
+Thomas H Tuberville,R,산업재,OC,Senate Committee on Armed Services,3,-33,0.0,,3
+Thomas H Tuberville,R,헬스케어,TMO,"Senate Committee on Health, Education, Lab",3,-8,0.0,,3
+Thomas H. Kean,R,헬스케어,BDX,House Committee on Energy and Commerce,3,24,0.0,,3
+Thomas H. Kean,R,헬스케어,DHR,House Committee on Energy and Commerce,3,24,0.0,,3
+Thomas H. Kean,R,기술/반도체,FTV,House Committee on Energy and Commerce,3,24,0.0,,3
+Thomas H. Kean,R,헬스케어,ILMN,House Committee on Energy and Commerce,3,24,0.0,,3
+Thomas H. Kean,R,기술/반도체,MSFT,House Committee on Energy and Commerce,1,8,12.9,,3
+Tina Smith,D,헬스케어,AORT,Senate Committee on Finance,3,225,0.0,,3
+Tina Smith,D,헬스케어,DXCM,Senate Committee on Finance,3,-725,0.0,,3
+Valerie Hoyle,D,소재,SHW,House Committee on Natural Resources,3,-8,0.0,,3
+Valerie Hoyle,D,산업재,URI,House Committee on Transportation and Infr,3,8,0.0,,3
+Zoe Lofgren,D,기술/반도체,AAPL,House Committee on the Judiciary,1,-8,21.8,,3
+Zoe Lofgren,D,커뮤니케이션,CMCSA,House Committee on the Judiciary,3,-8,0.0,,3
+Zoe Lofgren,D,기술/반도체,MSFT,House Committee on the Judiciary,1,-8,12.9,,3
+Zoe Lofgren,D,기술/반도체,NXPI,House Committee on the Judiciary,3,8,0.0,,3
+Zoe Lofgren,D,커뮤니케이션,VZ,House Committee on the Judiciary,3,-8,0.0,,3
+"Angus S King, Jr.",D,에너지,XOM,Senate Committee on Energy and Natural Res,2,0,0.0,,2
+Bruce Westerman,R,소재,BHP,House Committee on Natural Resources,2,0,0.0,,2
+Bruce Westerman,R,산업재,CMI,House Committee on Transportation and Infr,2,0,0.0,,2
+Bruce Westerman,R,에너지,CVX,House Committee on Natural Resources,2,0,0.0,,2
+Bruce Westerman,R,산업재,EMR,House Committee on Transportation and Infr,2,0,0.0,,2
+Bruce Westerman,R,산업재,FANUY,House Committee on Transportation and Infr,2,0,0.0,,2
+Bruce Westerman,R,산업재,ITW,House Committee on Transportation and Infr,2,0,0.0,,2
+Bruce Westerman,R,산업재,JCI,House Committee on Transportation and Infr,2,0,0.0,,2
+Bruce Westerman,R,소재,RIO,House Committee on Natural Resources,2,0,0.0,,2
+Bruce Westerman,R,산업재,SAFRY,House Committee on Transportation and Infr,2,0,0.0,,2
+Bruce Westerman,R,에너지,SHEL,House Committee on Natural Resources,2,0,0.0,,2
+Bruce Westerman,R,산업재,SIEGY,House Committee on Transportation and Infr,2,0,0.0,,2
+Bruce Westerman,R,에너지,SU,House Committee on Natural Resources,2,0,0.0,,2
+Bryan George Steil,R,금융,JPM,House Committee on Financial Services,2,0,0.0,,2
+Byron Donalds,R,금융,NU,House Committee on Financial Services,2,0,0.0,,2
+Carol Devine Miller,R,헬스케어,CVS,House Committee on Ways and Means,2,-8,0.0,,2
+Carol Devine Miller,R,헬스케어,DGX,House Committee on Ways and Means,2,0,0.0,,2
+Cleo Fields,D,금융,HOOD,House Committee on Financial Services,2,0,0.0,,2
+Daniel Goldman,D,산업재,ATLKY,House Committee on Homeland Security,2,-67,0.0,,2
+Daniel Goldman,D,산업재,LMT,House Committee on Homeland Security,2,0,0.0,,2
+Daniel Goldman,D,산업재,NOC,House Committee on Homeland Security,2,0,0.0,,2
+Daniel S Sullivan,R,기술/반도체,ACN,"Senate Committee on Commerce, Science, and",2,-65,0.0,,2
+Daniel S Sullivan,R,기술/반도체,APH,"Senate Committee on Commerce, Science, and",2,-16,0.0,,2
+Daniel S Sullivan,R,커뮤니케이션,CMCSA,"Senate Committee on Commerce, Science, and",2,-16,0.0,,2
+Daniel S Sullivan,R,에너지,CVX,Senate Committee on Environment and Public,2,-16,0.0,,2
+Daniel S Sullivan,R,산업재,HON,Senate Committee on Armed Services,2,-16,0.0,,2
+Daniel S Sullivan,R,산업재,LUV,Senate Committee on Armed Services,2,-16,0.0,,2
+Daniel S Sullivan,R,소재,PPG,Senate Committee on Environment and Public,2,-16,0.0,,2
+Gilbert Cisneros,D,산업재,CAT,House Committee on Armed Services,2,16,0.0,,2
+Gilbert Cisneros,D,산업재,CYRX,House Committee on Armed Services,2,16,0.0,,2
+Gilbert Cisneros,D,산업재,GD,House Committee on Armed Services,2,0,0.0,,2
+Gilbert Cisneros,D,산업재,GWW,House Committee on Armed Services,2,16,0.0,,2
+Gilbert Cisneros,D,산업재,NOC,House Committee on Armed Services,2,-167,0.0,,2
+Gilbert Cisneros,D,산업재,TT,House Committee on Armed Services,2,8,0.0,,2
+Greg Landsman,D,기술/반도체,ADBE,House Committee on Energy and Commerce,2,8,0.0,,2
+Greg Landsman,D,기술/반도체,ADI,House Committee on Energy and Commerce,2,0,0.0,,2
+Greg Landsman,D,소재,LIN,House Committee on Energy and Commerce,2,-16,0.0,,2
+Greg Landsman,D,헬스케어,LLY,House Committee on Energy and Commerce,2,8,0.0,,2
+Greg Landsman,D,에너지,LNG,House Committee on Energy and Commerce,2,0,0.0,,2
+Greg Landsman,D,기술/반도체,NVDA,House Committee on Energy and Commerce,2,-8,0.0,,2
+Greg Landsman,D,헬스케어,REGN,House Committee on Energy and Commerce,2,-24,0.0,,2
+Greg Landsman,D,기술/반도체,TEL,House Committee on Energy and Commerce,2,0,0.0,,2
+Greg Stanton,D,산업재,HWM,House Committee on Transportation and Infr,2,0,0.0,,2
+Greg Stanton,D,산업재,PH,House Committee on Transportation and Infr,2,0,0.0,,2
+James French Hill,R,금융,MKL,House Committee on Financial Services,2,8,0.0,,2
+Jared Moskowitz,D,기술/반도체,ADP,House Committee on the Judiciary,2,0,0.0,,2
+Jared Moskowitz,D,기술/반도체,ASML,House Committee on the Judiciary,2,16,0.0,,2
+Jared Moskowitz,D,기술/반도체,CSCO,House Committee on the Judiciary,2,8,0.0,,2
+Jared Moskowitz,D,기술/반도체,DELL,House Committee on the Judiciary,2,8,0.0,,2
+Jared Moskowitz,D,기술/반도체,JKHY,House Committee on the Judiciary,2,-16,0.0,,2
+Jared Moskowitz,D,커뮤니케이션,META,House Committee on the Judiciary,2,16,0.0,,2
+Jared Moskowitz,D,기술/반도체,MSI,House Committee on the Judiciary,2,16,0.0,,2
+Jared Moskowitz,D,기술/반도체,PANW,House Committee on the Judiciary,2,16,0.0,,2
+Jefferson Shreve,R,산업재,CTAS,House Committee on Transportation and Infr,2,0,0.0,,2
+Jefferson Shreve,R,산업재,DAL,House Committee on Transportation and Infr,2,-33,0.0,,2
+Jefferson Shreve,R,산업재,LMT,House Committee on Transportation and Infr,2,0,0.0,,2
+Jefferson Shreve,R,산업재,RTX,House Committee on Transportation and Infr,2,0,0.0,,2
+Jefferson Shreve,R,산업재,TT,House Committee on Transportation and Infr,2,-42,0.0,,2
+Jefferson Shreve,R,산업재,UNP,House Committee on Transportation and Infr,2,0,0.0,,2
+"Jerry Moran,",R,커뮤니케이션,CMCSA,"Senate Committee on Commerce, Science, and",2,0,0.0,,2
+"Jerry Moran,",R,기술/반도체,CSCO,"Senate Committee on Commerce, Science, and",2,0,0.0,,2
+Joe Courtney,D,산업재,HON,House Committee on Armed Services,2,0,0.0,,2
+John Curtis,R,기술/반도체,ADBE,"Senate Committee on Commerce, Science, and",2,0,0.0,,2
+John Curtis,R,기술/반도체,CRM,"Senate Committee on Commerce, Science, and",2,-16,0.0,,2
+John Curtis,R,산업재,EMR,"Senate Committee on Commerce, Science, and",2,0,0.0,,2
+John Curtis,R,산업재,HON,"Senate Committee on Commerce, Science, and",2,-16,0.0,,2
+John Curtis,R,기술/반도체,PANW,"Senate Committee on Commerce, Science, and",2,-16,0.0,,2
+John Curtis,R,산업재,RTX,"Senate Committee on Commerce, Science, and",2,0,0.0,,2
+John Curtis,R,기술/반도체,TXN,"Senate Committee on Commerce, Science, and",2,-16,0.0,,2
+John F Reed,D,산업재,FDX,Senate Committee on Armed Services,2,-16,0.0,,2
+John Fetterman,D,커뮤니케이션,GOOG,"Senate Committee on Commerce, Science, and",2,16,0.0,,2
+John Hoeven,R,소재,DOW,Senate Committee on Energy and Natural Res,2,150,0.0,,2
+John Hoeven,R,에너지,XOM,Senate Committee on Energy and Natural Res,2,150,0.0,,2
+John James,R,헬스케어,ABBV,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,헬스케어,ABT,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,기술/반도체,ACN,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,기술/반도체,ADI,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,기술/반도체,ADP,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,기술/반도체,AMAT,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,기술/반도체,AMD,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,기술/반도체,AVGO,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,소재,AXTA,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,헬스케어,BDX,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,헬스케어,BMY,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,커뮤니케이션,CMCSA,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,기술/반도체,CSCO,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,기술/반도체,CTSH,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,소재,CTVA,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,에너지,CVX,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,에너지,EOG,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,커뮤니케이션,FOXA,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,기술/반도체,FTV,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,커뮤니케이션,GOOG,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,커뮤니케이션,GOOGL,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,헬스케어,HUM,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,기술/반도체,IBM,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,기술/반도체,KLAC,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,헬스케어,LH,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,소재,LIN,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,기술/반도체,LRCX,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,기술/반도체,MCHP,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,커뮤니케이션,META,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,헬스케어,MRK,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,기술/반도체,MRVL,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,기술/반도체,MU,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,헬스케어,NVO,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,소재,PPG,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,에너지,SHEL,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,헬스케어,SNY,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,기술/반도체,SONY,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,헬스케어,TMO,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,기술/반도체,TXN,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,기술/반도체,UBER,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,헬스케어,UNH,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,헬스케어,VEEV,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,에너지,VLO,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,커뮤니케이션,VZ,House Committee on Energy and Commerce,2,0,0.0,,2
+John James,R,에너지,XOM,House Committee on Energy and Commerce,2,0,0.0,,2
+John W Hickenlooper,D,커뮤니케이션,FWONA,"Senate Committee on Commerce, Science, and",2,-67,0.0,,2
+John W Hickenlooper,D,커뮤니케이션,PINS,"Senate Committee on Commerce, Science, and",2,24,0.0,,2
+John W Hickenlooper,D,기술/반도체,PLTR,"Senate Committee on Commerce, Science, and",2,-16,0.0,,2
+John W Hickenlooper,D,커뮤니케이션,SNAP,"Senate Committee on Commerce, Science, and",2,-41,0.0,,2
+Josh Gottheimer,D,금융,PGR,House Committee on Financial Services,2,-8,0.0,,2
+Julie Johnson,D,산업재,GD,House Committee on Homeland Security,2,0,0.0,,2
+Julie Johnson,D,산업재,HON,House Committee on Homeland Security,2,-16,0.0,,2
+Julie Johnson,D,산업재,PH,House Committee on Homeland Security,2,-16,0.0,,2
+Julie Johnson,D,산업재,UPS,House Committee on Homeland Security,2,-16,0.0,,2
+Katie Britt,R,커뮤니케이션,GOOG,Senate Committee on the Judiciary,2,0,0.0,,2
+Katie Britt,R,금융,JPM,"Senate Committee on Banking, Housing, and ",2,0,0.0,,2
+Kevin Hern,R,헬스케어,BDX,House Committee on Ways and Means,2,-41,0.0,,2
+Kevin Hern,R,헬스케어,BSX,House Committee on Ways and Means,2,-2992,0.0,,2
+Kevin Hern,R,헬스케어,DXCM,House Committee on Ways and Means,2,0,0.0,,2
+Kevin Hern,R,헬스케어,NVS,House Committee on Ways and Means,2,-8,0.0,,2
+Kevin Hern,R,헬스케어,TMO,House Committee on Ways and Means,2,-8,0.0,,2
+Lisa McClain,R,금융,AIG,House Committee on Financial Services,2,0,0.0,,2
+Lisa McClain,R,금융,AJG,House Committee on Financial Services,2,0,0.0,,2
+Lisa McClain,R,금융,BLK,House Committee on Financial Services,2,0,0.0,,2
+Lisa McClain,R,금융,HMN,House Committee on Financial Services,2,0,0.0,,2
+Lisa McClain,R,금융,MA,House Committee on Financial Services,2,0,0.0,,2
+Lisa McClain,R,금융,MCO,House Committee on Financial Services,2,0,0.0,,2
+Lisa McClain,R,금융,SCHW,House Committee on Financial Services,2,16,0.0,,2
+Lisa McClain,R,금융,UBSI,House Committee on Financial Services,2,0,0.0,,2
+Lisa McClain,R,금융,WAL,House Committee on Financial Services,2,0,0.0,,2
+Maria Elvira Salazar,R,금융,C,House Committee on Financial Services,2,8,0.0,,2
+Patrick Fallon,R,산업재,AAL,House Committee on Armed Services,2,0,0.0,,2
+Peter Welch,D,헬스케어,MDT,Senate Committee on Finance,2,-16,0.0,,2
+Richard Dean Dr McCormick,R,기술/반도체,ADP,"House Committee on Science, Space, and Tec",2,16,0.0,,2
+Richard W. Allen,R,헬스케어,MRK,House Committee on Energy and Commerce,2,0,0.0,,2
+Rick Larsen,D,산업재,ODFL,House Committee on Transportation and Infr,2,0,0.0,,2
+Rick Larsen,D,산업재,VRSK,House Committee on Transportation and Infr,2,0,0.0,,2
+Rick Larsen,D,산업재,WM,House Committee on Transportation and Infr,2,0,0.0,,2
+Ritchie John Torres,D,금융,APO,House Committee on Financial Services,2,0,0.0,,2
+Ritchie John Torres,D,금융,BLK,House Committee on Financial Services,2,0,0.0,,2
+Ritchie John Torres,D,금융,BX,House Committee on Financial Services,2,0,0.0,,2
+Ritchie John Torres,D,금융,JPM,House Committee on Financial Services,2,0,0.0,,2
+Ritchie John Torres,D,금융,MS,House Committee on Financial Services,2,0,0.0,,2
+Rob Bresnahan,R,산업재,DE,House Committee on Transportation and Infr,2,-8,0.0,,2
+Rob Bresnahan,R,산업재,EMR,House Committee on Transportation and Infr,2,0,0.0,,2
+Rob Bresnahan,R,산업재,GD,House Committee on Transportation and Infr,2,-16,0.0,,2
+Rob Bresnahan,R,산업재,LMT,House Committee on Transportation and Infr,2,0,0.0,,2
+Rob Bresnahan,R,산업재,ODFL,House Committee on Transportation and Infr,2,0,0.0,,2
+Rob Bresnahan,R,산업재,PWR,House Committee on Transportation and Infr,2,24,0.0,,2
+Rob Bresnahan,R,산업재,ROK,House Committee on Transportation and Infr,2,0,0.0,,2
+Rob Bresnahan,R,산업재,UPS,House Committee on Transportation and Infr,2,0,0.0,,2
+Rob Bresnahan,R,산업재,WAB,House Committee on Transportation and Infr,2,-41,0.0,,2
+Robert J. Wittman,R,에너지,XOM,House Committee on Natural Resources,2,0,0.0,,2
+Ron L Wyden,D,헬스케어,LLY,Senate Committee on Finance,2,0,0.0,,2
+Ron L Wyden,D,에너지,XOM,Senate Committee on Energy and Natural Res,2,0,0.0,,2
+Sheldon Whitehouse,D,헬스케어,AMGN,Senate Committee on Finance,2,-16,0.0,,2
+Sheldon Whitehouse,D,헬스케어,CVS,Senate Committee on Finance,2,16,0.0,,2
+Sheldon Whitehouse,D,헬스케어,DHR,Senate Committee on Finance,2,-41,0.0,,2
+Sheldon Whitehouse,D,커뮤니케이션,DIS,Senate Committee on the Judiciary,2,-16,0.0,,2
+Sheldon Whitehouse,D,기술/반도체,IBM,Senate Committee on the Judiciary,2,-16,0.0,,2
+Sheldon Whitehouse,D,기술/반도체,LRCX,Senate Committee on the Judiciary,2,-65,0.0,,2
+Sheldon Whitehouse,D,헬스케어,NVS,Senate Committee on Finance,2,24,0.0,,2
+Sheldon Whitehouse,D,기술/반도체,SNOW,Senate Committee on the Judiciary,2,0,0.0,,2
+Sheldon Whitehouse,D,헬스케어,UNH,Senate Committee on Finance,2,-65,0.0,,2
+Shelley M Capito,R,기술/반도체,CSCO,"Senate Committee on Commerce, Science, and",2,0,0.0,,2
+Shelley M Capito,R,에너지,ENB,Senate Committee on Environment and Public,2,-16,0.0,,2
+Shelley M Capito,R,산업재,ITW,"Senate Committee on Commerce, Science, and",2,-16,0.0,,2
+Shelley M Capito,R,에너지,PSX,Senate Committee on Environment and Public,2,0,0.0,,2
+Susie Lee,R,소재,ECL,House Committee on Natural Resources,2,0,0.0,,2
+Susie Lee,R,소재,SHW,House Committee on Natural Resources,2,0,0.0,,2
+Thomas H Tuberville,R,헬스케어,ALGN,"Senate Committee on Health, Education, Lab",2,0,0.0,,2
+Thomas H Tuberville,R,헬스케어,DGX,"Senate Committee on Health, Education, Lab",2,-24,0.0,,2
+Thomas H Tuberville,R,산업재,GNRC,Senate Committee on Armed Services,2,0,0.0,,2
+Thomas H Tuberville,R,헬스케어,MDT,"Senate Committee on Health, Education, Lab",2,-65,0.0,,2
+Thomas H Tuberville,R,산업재,NOC,Senate Committee on Armed Services,2,0,0.0,,2
+Thomas H Tuberville,R,산업재,SBLK,Senate Committee on Armed Services,2,0,0.0,,2
+Thomas H Tuberville,R,산업재,UNP,Senate Committee on Armed Services,2,-41,0.0,,2
+Thomas H Tuberville,R,헬스케어,VEEV,"Senate Committee on Health, Education, Lab",2,0,0.0,,2
+Thomas H Tuberville,R,헬스케어,VRTX,"Senate Committee on Health, Education, Lab",2,0,0.0,,2
+Thomas H Tuberville,R,헬스케어,VTRS,"Senate Committee on Health, Education, Lab",2,-16,0.0,,2
+Thomas H Tuberville,R,헬스케어,WAT,"Senate Committee on Health, Education, Lab",2,0,0.0,,2
+Thomas H Tuberville,R,헬스케어,WST,"Senate Committee on Health, Education, Lab",2,0,0.0,,2
+Thomas H. Kean,R,기술/반도체,ADI,House Committee on Energy and Commerce,2,16,0.0,,2
+Thomas H. Kean,R,기술/반도체,FIS,House Committee on Energy and Commerce,2,16,0.0,,2
+Thomas H. Kean,R,소재,LIN,House Committee on Energy and Commerce,2,16,0.0,,2
+Thomas H. Kean,R,커뮤니케이션,TTWO,House Committee on Energy and Commerce,2,0,0.0,,2
+Thomas H. Kean,R,기술/반도체,TXN,House Committee on Energy and Commerce,2,16,0.0,,2
+Thomas Suozzi,D,헬스케어,CRSP,House Committee on Ways and Means,2,0,0.0,,2
+Thomas Suozzi,D,헬스케어,LLY,House Committee on Ways and Means,2,0,0.0,,2
+Tina Smith,D,헬스케어,TCMD,Senate Committee on Finance,2,250,0.0,,2
+Valerie Hoyle,D,에너지,COP,House Committee on Natural Resources,2,0,0.0,,2
+Valerie Hoyle,D,산업재,CTAS,House Committee on Transportation and Infr,2,0,0.0,,2
+Valerie Hoyle,D,산업재,DE,House Committee on Transportation and Infr,2,0,0.0,,2
+Valerie Hoyle,D,산업재,EMR,House Committee on Transportation and Infr,2,0,0.0,,2
+Valerie Hoyle,D,산업재,ETN,House Committee on Transportation and Infr,2,0,0.0,,2
+Valerie Hoyle,D,산업재,FDX,House Committee on Transportation and Infr,2,0,0.0,,2
+Valerie Hoyle,D,산업재,GE,House Committee on Transportation and Infr,2,-16,0.0,,2
+Valerie Hoyle,D,산업재,GEV,House Committee on Transportation and Infr,2,0,0.0,,2
+Valerie Hoyle,D,산업재,IR,House Committee on Transportation and Infr,2,0,0.0,,2
+Valerie Hoyle,D,산업재,JCI,House Committee on Transportation and Infr,2,0,0.0,,2
+Valerie Hoyle,D,소재,LIN,House Committee on Natural Resources,2,0,0.0,,2
+Valerie Hoyle,D,산업재,LMT,House Committee on Transportation and Infr,2,0,0.0,,2
+Valerie Hoyle,D,산업재,NOC,House Committee on Transportation and Infr,2,0,0.0,,2
+Valerie Hoyle,D,소재,NTR,House Committee on Natural Resources,2,0,0.0,,2
+Valerie Hoyle,D,산업재,PNR,House Committee on Transportation and Infr,2,-16,0.0,,2
+Valerie Hoyle,D,산업재,PWR,House Committee on Transportation and Infr,2,0,0.0,,2
+Valerie Hoyle,D,산업재,RSG,House Committee on Transportation and Infr,2,0,0.0,,2
+Valerie Hoyle,D,에너지,SHEL,House Committee on Natural Resources,2,0,0.0,,2
+Valerie Hoyle,D,산업재,SIEGY,House Committee on Transportation and Infr,2,0,0.0,,2
+Valerie Hoyle,D,산업재,TDG,House Committee on Transportation and Infr,2,0,0.0,,2
+Valerie Hoyle,D,소재,VMC,House Committee on Natural Resources,2,0,0.0,,2
+Valerie Hoyle,D,산업재,VRSK,House Committee on Transportation and Infr,2,0,0.0,,2
+Valerie Hoyle,D,산업재,WAB,House Committee on Transportation and Infr,2,0,0.0,,2
+Valerie Hoyle,D,산업재,WCN,House Committee on Transportation and Infr,2,0,0.0,,2
+Valerie Hoyle,D,에너지,XOM,House Committee on Natural Resources,2,0,0.0,,2
+William R. Keating,D,산업재,CAT,House Committee on Armed Services,2,-41,0.0,,2
+Zoe Lofgren,D,기술/반도체,ASML,House Committee on the Judiciary,2,0,0.0,,2
+Zoe Lofgren,D,기술/반도체,PAYX,House Committee on the Judiciary,2,-16,0.0,,2
+Zoe Lofgren,D,기술/반도체,ROP,House Committee on the Judiciary,2,0,0.0,,2
+Adam Smith,D,헬스케어,CVS,House Committee on Ways and Means,1,-8,0.0,,1
+Adam Smith,D,산업재,RSG,House Committee on Armed Services,1,-8,0.0,,1
+Adam Smith,D,산업재,UPS,House Committee on Armed Services,1,-8,0.0,,1
+"Angus S King, Jr.",D,에너지,COP,Senate Committee on Energy and Natural Res,1,-8,0.0,,1
+"Angus S King, Jr.",D,산업재,MMM,Senate Committee on Armed Services,1,-8,0.0,,1
+"Angus S King, Jr.",D,산업재,PWR,Senate Committee on Armed Services,1,8,0.0,,1
+"Angus S King, Jr.",D,에너지,SLB,Senate Committee on Energy and Natural Res,1,-8,0.0,,1
+"Angus S King, Jr.",D,산업재,VRT,Senate Committee on Armed Services,1,8,0.0,,1
+Ashley Moody,R,기술/반도체,AMAT,Senate Committee on the Judiciary,1,175,0.0,,1
+Ashley Moody,R,산업재,HWM,Senate Committee on Armed Services,1,75,0.0,,1
+Ashley Moody,R,기술/반도체,MU,Senate Committee on the Judiciary,1,75,0.0,,1
+Ashley Moody,R,기술/반도체,OKTA,Senate Committee on the Judiciary,1,-75,0.0,,1
+August Lee Pfluger,R,커뮤니케이션,FWONK,House Committee on Energy and Commerce,1,0,0.0,,1
+Bernie Moreno,R,금융,ETOR,"Senate Committee on Banking, Housing, and ",1,-175,0.0,,1
+Blake Moore,D,커뮤니케이션,META,House Committee on the Judiciary,1,-8,0.0,,1
+Bradley S. Schneider,D,헬스케어,DXCM,House Committee on Ways and Means,1,0,0.0,,1
+Bradley S. Schneider,D,헬스케어,RMD,House Committee on Ways and Means,1,0,0.0,,1
+Bradley S. Schneider,D,헬스케어,TMO,House Committee on Ways and Means,1,0,0.0,,1
+Bruce Westerman,R,산업재,BA,House Committee on Transportation and Infr,1,8,0.0,,1
+Bruce Westerman,R,에너지,BP,House Committee on Natural Resources,1,8,0.0,,1
+Bruce Westerman,R,산업재,CSX,House Committee on Transportation and Infr,1,8,0.0,,1
+Byron Donalds,R,금융,FDS,House Committee on Financial Services,1,-8,0.0,,1
+Byron Donalds,R,금융,JPM,House Committee on Financial Services,1,-8,0.0,,1
+Byron Donalds,R,금융,MSCI,House Committee on Financial Services,1,-8,0.0,,1
+Carol Devine Miller,R,헬스케어,BMY,House Committee on Ways and Means,1,33,0.0,,1
+Carol Devine Miller,R,헬스케어,GILD,House Committee on Ways and Means,1,8,0.0,,1
+Carol Devine Miller,R,헬스케어,MCK,House Committee on Ways and Means,1,0,0.0,,1
+Carol Devine Miller,R,헬스케어,VTRS,House Committee on Ways and Means,1,33,0.0,,1
+Cleo Fields,D,금융,JPM,House Committee on Financial Services,1,33,0.0,,1
+Cliff Bentz,R,헬스케어,AMGN,House Committee on Energy and Commerce,1,8,0.0,,1
+Cliff Bentz,R,기술/반도체,INTC,House Committee on Energy and Commerce,1,-8,0.0,,1
+Daniel Crenshaw,R,커뮤니케이션,GOOG,House Committee on Energy and Commerce,1,8,0.0,,1
+Daniel Crenshaw,R,에너지,KMI,House Committee on Energy and Commerce,1,8,0.0,,1
+Daniel Crenshaw,R,커뮤니케이션,META,House Committee on Energy and Commerce,1,8,0.0,,1
+Daniel Goldman,D,기술/반도체,ACN,House Committee on the Judiciary,1,-8,0.0,,1
+Daniel Goldman,D,산업재,ALLE,House Committee on Homeland Security,1,-8,0.0,,1
+Daniel Goldman,D,기술/반도체,ASML,House Committee on the Judiciary,1,0,0.0,,1
+Daniel Goldman,D,커뮤니케이션,BATRK,House Committee on the Judiciary,1,0,0.0,,1
+Daniel Goldman,D,산업재,BXBLY,House Committee on Homeland Security,1,-75,0.0,,1
+Daniel Goldman,D,산업재,CTAS,House Committee on Homeland Security,1,-8,0.0,,1
+Daniel Goldman,D,기술/반도체,CTSH,House Committee on the Judiciary,1,33,0.0,,1
+Daniel Goldman,D,산업재,DAL,House Committee on Homeland Security,1,8,0.0,,1
+Daniel Goldman,D,산업재,DE,House Committee on Homeland Security,1,-33,0.0,,1
+Daniel Goldman,D,기술/반도체,EPAM,House Committee on the Judiciary,1,-75,0.0,,1
+Daniel Goldman,D,커뮤니케이션,FWONK,House Committee on the Judiciary,1,-8,0.0,,1
+Daniel Goldman,D,기술/반도체,HPQ,House Committee on the Judiciary,1,33,0.0,,1
+Daniel Goldman,D,산업재,HSQVY,House Committee on Homeland Security,1,-175,0.0,,1
+Daniel Goldman,D,기술/반도체,IFNNY,House Committee on the Judiciary,1,0,0.0,,1
+Daniel Goldman,D,산업재,JCI,House Committee on Homeland Security,1,0,0.0,,1
+Daniel Goldman,D,기술/반도체,JKHY,House Committee on the Judiciary,1,-8,0.0,,1
+Daniel Goldman,D,커뮤니케이션,NTES,House Committee on the Judiciary,1,0,0.0,,1
+Daniel Goldman,D,기술/반도체,NVDA,House Committee on the Judiciary,1,-8,0.0,,1
+Daniel Goldman,D,커뮤니케이션,PUBGY,House Committee on the Judiciary,1,-75,0.0,,1
+Daniel Goldman,D,커뮤니케이션,RBLX,House Committee on the Judiciary,1,0,0.0,,1
+Daniel Goldman,D,커뮤니케이션,ROKU,House Committee on the Judiciary,1,-8,0.0,,1
+Daniel Goldman,D,산업재,RTX,House Committee on Homeland Security,1,-8,0.0,,1
+Daniel Goldman,D,산업재,SAFRY,House Committee on Homeland Security,1,-75,0.0,,1
+Daniel Goldman,D,기술/반도체,SHLS,House Committee on the Judiciary,1,-8,0.0,,1
+Daniel Goldman,D,산업재,SIEGY,House Committee on Homeland Security,1,0,0.0,,1
+Daniel Goldman,D,기술/반도체,SNOW,House Committee on the Judiciary,1,33,0.0,,1
+Daniel Goldman,D,기술/반도체,SONY,House Committee on the Judiciary,1,0,0.0,,1
+Daniel Goldman,D,기술/반도체,STX,House Committee on the Judiciary,1,-8,0.0,,1
+Daniel Goldman,D,커뮤니케이션,T,House Committee on the Judiciary,1,-8,0.0,,1
+Daniel Goldman,D,커뮤니케이션,TCEHY,House Committee on the Judiciary,1,-8,0.0,,1
+Daniel Goldman,D,커뮤니케이션,TMUS,House Committee on the Judiciary,1,-8,0.0,,1
+Daniel Goldman,D,기술/반도체,TSM,House Committee on the Judiciary,1,0,0.0,,1
+Daniel Goldman,D,산업재,TT,House Committee on Homeland Security,1,-175,0.0,,1
+Daniel Goldman,D,커뮤니케이션,TTD,House Committee on the Judiciary,1,0,0.0,,1
+Daniel Goldman,D,산업재,UNP,House Committee on Homeland Security,1,33,0.0,,1
+Daniel Goldman,D,산업재,URI,House Committee on Homeland Security,1,-8,0.0,,1
+Daniel Goldman,D,산업재,WM,House Committee on Homeland Security,1,-8,0.0,,1
+Daniel Goldman,D,커뮤니케이션,Z,House Committee on the Judiciary,1,0,0.0,,1
+Daniel Meuser,R,금융,CB,House Committee on Financial Services,1,-8,0.0,,1
+Daniel S Sullivan,R,커뮤니케이션,DIS,"Senate Committee on Commerce, Science, and",1,8,0.0,,1
+Daniel S Sullivan,R,기술/반도체,NVDA,"Senate Committee on Commerce, Science, and",1,8,0.0,,1
+David Cheston Rouzer,R,기술/반도체,NVDA,"House Committee on Science, Space, and Tec",1,-8,0.0,,1
+Debbie Dingell,D,소재,CTVA,House Committee on Natural Resources,1,33,0.0,,1
+Debbie Dingell,D,소재,DD,House Committee on Natural Resources,1,0,0.0,,1
+Debbie Dingell,D,에너지,ET,House Committee on Natural Resources,1,0,0.0,,1
+Debbie Dingell,D,헬스케어,MDT,House Committee on Energy and Commerce,1,0,0.0,,1
+Debbie Dingell,D,커뮤니케이션,META,House Committee on Energy and Commerce,1,0,0.0,,1
+Debbie Dingell,D,헬스케어,WAT,House Committee on Energy and Commerce,1,0,0.0,,1
+Deborah K. Ross,D,기술/반도체,AMAT,House Committee on the Judiciary,1,8,0.0,,1
+Deborah K. Ross,D,기술/반도체,AMD,House Committee on the Judiciary,1,0,0.0,,1
+Deborah K. Ross,D,기술/반도체,CRWD,House Committee on the Judiciary,1,0,0.0,,1
+Debra S Fischer,R,산업재,CAT,Senate Committee on Armed Services,1,-75,0.0,,1
+Debra S Fischer,R,산업재,LMT,Senate Committee on Armed Services,1,-75,0.0,,1
+Donald Sternoff Beyer,D,헬스케어,RHHBY,House Committee on Ways and Means,1,-8,0.0,,1
+Donald Sternoff Honorable Beyer,D,헬스케어,EDIT,House Committee on Ways and Means,1,8,0.0,,1
+Donald Sternoff Honorable Beyer,D,헬스케어,REGN,House Committee on Ways and Means,1,-8,0.0,,1
+Donald Sternoff Honorable Beyer,D,헬스케어,UNH,House Committee on Ways and Means,1,-8,0.0,,1
+Dwight Evans,D,헬스케어,CVS,House Committee on Ways and Means,1,-8,0.0,,1
+Dwight Evans,D,헬스케어,PFE,House Committee on Ways and Means,1,8,0.0,,1
+Dwight Evans,D,헬스케어,RHHBY,House Committee on Ways and Means,1,8,0.0,,1
+Dwight Evans,D,헬스케어,TMO,House Committee on Ways and Means,1,8,0.0,,1
+Emily Randall,D,에너지,XOM,House Committee on Natural Resources,1,-8,0.0,,1
+Gary C Peters,D,기술/반도체,IBM,"Senate Committee on Commerce, Science, and",1,8,0.0,,1
+Gary C Peters,D,기술/반도체,INTC,"Senate Committee on Commerce, Science, and",1,-33,0.0,,1
+Gary C Peters,D,산업재,OTIS,Senate Committee on Homeland Security and ,1,-8,0.0,,1
+Gary C Peters,D,산업재,SWK,Senate Committee on Homeland Security and ,1,33,0.0,,1
+Gary C Peters,D,커뮤니케이션,VZ,"Senate Committee on Commerce, Science, and",1,8,0.0,,1
+Gary C Peters,D,커뮤니케이션,WBD,"Senate Committee on Commerce, Science, and",1,-8,0.0,,1
+George Whitesides,D,기술/반도체,INTC,"House Committee on Science, Space, and Tec",1,0,0.0,,1
+George Whitesides,D,산업재,LMT,House Committee on Armed Services,1,0,0.0,,1
+George Whitesides,D,산업재,ROK,House Committee on Armed Services,1,0,0.0,,1
+George Whitesides,D,산업재,RSG,House Committee on Armed Services,1,-175,0.0,,1
+George Whitesides,D,산업재,RTX,House Committee on Armed Services,1,0,0.0,,1
+George Whitesides,D,산업재,SPCE,House Committee on Armed Services,1,-8,0.0,,1
+George Whitesides,D,기술/반도체,TXN,"House Committee on Science, Space, and Tec",1,0,0.0,,1
+George Whitesides,D,산업재,UNP,House Committee on Armed Services,1,0,0.0,,1
+Gilbert Cisneros,D,산업재,FDX,House Committee on Armed Services,1,8,0.0,,1
+Gilbert Cisneros,D,산업재,HON,House Committee on Armed Services,1,8,0.0,,1
+Gilbert Cisneros,D,산업재,OTIS,House Committee on Armed Services,1,-8,0.0,,1
+Gilbert Cisneros,D,산업재,SWK,House Committee on Armed Services,1,8,0.0,,1
+Gilbert Cisneros,D,산업재,UNP,House Committee on Armed Services,1,-8,0.0,,1
+Greg Landsman,D,기술/반도체,ACN,House Committee on Energy and Commerce,1,-8,0.0,,1
+Greg Landsman,D,헬스케어,BMY,House Committee on Energy and Commerce,1,-8,0.0,,1
+Greg Landsman,D,헬스케어,DHR,House Committee on Energy and Commerce,1,-8,0.0,,1
+Greg Landsman,D,커뮤니케이션,DIS,House Committee on Energy and Commerce,1,-33,0.0,,1
+Greg Landsman,D,에너지,PSX,House Committee on Energy and Commerce,1,-8,0.0,,1
+Greg Landsman,D,헬스케어,TMO,House Committee on Energy and Commerce,1,-8,0.0,,1
+Greg Landsman,D,헬스케어,UNH,House Committee on Energy and Commerce,1,0,0.0,,1
+Greg Landsman,D,헬스케어,ZTS,House Committee on Energy and Commerce,1,-8,0.0,,1
+Greg Stanton,D,산업재,CAT,House Committee on Transportation and Infr,1,8,0.0,,1
+Greg Stanton,D,산업재,DE,House Committee on Transportation and Infr,1,-8,0.0,,1
+Greg Stanton,D,산업재,UPS,House Committee on Transportation and Infr,1,-8,0.0,,1
+Jacklyn S Rosen,D,산업재,IR,Senate Committee on Armed Services,1,0,0.0,,1
+Jacky Rosen,D,기술/반도체,DELL,"Senate Committee on Commerce, Science, and",1,0,0.0,,1
+James French Hill,R,금융,BX,House Committee on Financial Services,1,-8,0.0,,1
+James French Hill,R,금융,RF,House Committee on Financial Services,1,0,0.0,,1
+James French Hill,R,금융,SCHW,House Committee on Financial Services,1,0,0.0,,1
+James French Hill,R,금융,WFC,House Committee on Financial Services,1,0,0.0,,1
+Jared Moskowitz,D,기술/반도체,TSM,House Committee on the Judiciary,1,8,0.0,,1
+Jefferson Shreve,R,산업재,DE,House Committee on Transportation and Infr,1,0,0.0,,1
+Jefferson Shreve,R,산업재,GEV,House Committee on Transportation and Infr,1,0,0.0,,1
+Jefferson Shreve,R,산업재,HON,House Committee on Transportation and Infr,1,33,0.0,,1
+Jefferson Shreve,R,산업재,MMM,House Committee on Transportation and Infr,1,0,0.0,,1
+"Jerry Moran,",R,커뮤니케이션,META,"Senate Committee on Commerce, Science, and",1,-8,0.0,,1
+John B. Larson,D,헬스케어,ILMN,House Committee on Ways and Means,1,-8,0.0,,1
+John B. Larson,D,헬스케어,IQV,House Committee on Ways and Means,1,-8,0.0,,1
+John B. Larson,D,헬스케어,TMO,House Committee on Ways and Means,1,-8,0.0,,1
+John B. Larson,D,헬스케어,ZTS,House Committee on Ways and Means,1,-8,0.0,,1
+John Boozman,R,에너지,DVN,Senate Committee on Environment and Public,1,8,0.0,,1
+John Boozman,R,소재,ECL,Senate Committee on Environment and Public,1,8,0.0,,1
+John Boozman,R,에너지,VLO,Senate Committee on Environment and Public,1,-8,0.0,,1
+John Boozman,R,에너지,XOM,Senate Committee on Environment and Public,1,8,0.0,,1
+John Curtis,R,기술/반도체,AMAT,"Senate Committee on Commerce, Science, and",1,-8,0.0,,1
+John Curtis,R,산업재,CAT,"Senate Committee on Commerce, Science, and",1,-8,0.0,,1
+John Curtis,R,커뮤니케이션,CMCSA,"Senate Committee on Commerce, Science, and",1,-8,0.0,,1
+John Curtis,R,산업재,CSX,"Senate Committee on Commerce, Science, and",1,8,0.0,,1
+John Curtis,R,에너지,CVX,Senate Committee on Environment and Public,1,-8,0.0,,1
+John Curtis,R,커뮤니케이션,DIS,"Senate Committee on Commerce, Science, and",1,0,0.0,,1
+John Curtis,R,커뮤니케이션,GOOG,"Senate Committee on Commerce, Science, and",1,0,0.0,,1
+John Curtis,R,기술/반도체,KLAC,"Senate Committee on Commerce, Science, and",1,-8,0.0,,1
+John Curtis,R,기술/반도체,LRCX,"Senate Committee on Commerce, Science, and",1,-8,0.0,,1
+John Curtis,R,커뮤니케이션,META,"Senate Committee on Commerce, Science, and",1,-8,0.0,,1
+John Curtis,R,기술/반도체,NVDA,"Senate Committee on Commerce, Science, and",1,-8,0.0,,1
+John Curtis,R,커뮤니케이션,TMUS,"Senate Committee on Commerce, Science, and",1,-8,0.0,,1
+John Curtis,R,산업재,UNP,"Senate Committee on Commerce, Science, and",1,-8,0.0,,1
+John F Reed,D,산업재,HON,Senate Committee on Armed Services,1,-8,0.0,,1
+John F Reed,D,산업재,ITW,Senate Committee on Armed Services,1,-8,0.0,,1
+John Fetterman,D,기술/반도체,MU,"Senate Committee on Commerce, Science, and",1,8,0.0,,1
+John Fetterman,D,커뮤니케이션,T,"Senate Committee on Commerce, Science, and",1,-8,0.0,,1
+John Hoeven,R,소재,CE,Senate Committee on Energy and Natural Res,1,75,0.0,,1
+John Hoeven,R,에너지,CVX,Senate Committee on Energy and Natural Res,1,75,0.0,,1
+John Hoeven,R,소재,LYB,Senate Committee on Energy and Natural Res,1,75,0.0,,1
+John Hoeven,R,에너지,MPC,Senate Committee on Energy and Natural Res,1,75,0.0,,1
+John Hoeven,R,에너지,SLB,Senate Committee on Energy and Natural Res,1,75,0.0,,1
+John W Hickenlooper,D,커뮤니케이션,CMCSA,"Senate Committee on Commerce, Science, and",1,-33,0.0,,1
+John W Hickenlooper,D,에너지,CVX,Senate Committee on Energy and Natural Res,1,-175,0.0,,1
+John W Hickenlooper,D,커뮤니케이션,DIS,"Senate Committee on Commerce, Science, and",1,-33,0.0,,1
+John W Hickenlooper,D,산업재,ETN,"Senate Committee on Commerce, Science, and",1,75,0.0,,1
+John W Hickenlooper,D,커뮤니케이션,GOOGL,"Senate Committee on Commerce, Science, and",1,-375,0.0,,1
+John W Hickenlooper,D,기술/반도체,INTC,"Senate Committee on Commerce, Science, and",1,-175,0.0,,1
+John W Hickenlooper,D,기술/반도체,NVDA,"Senate Committee on Commerce, Science, and",1,-750,0.0,,1
+John W Hickenlooper,D,기술/반도체,PANW,"Senate Committee on Commerce, Science, and",1,175,0.0,,1
+John W Hickenlooper,D,기술/반도체,UBER,"Senate Committee on Commerce, Science, and",1,175,0.0,,1
+John W Hickenlooper,D,커뮤니케이션,VZ,"Senate Committee on Commerce, Science, and",1,-175,0.0,,1
+Josh Gottheimer,D,금융,CB,House Committee on Financial Services,1,8,0.0,,1
+Josh Gottheimer,D,금융,MSCI,House Committee on Financial Services,1,-8,0.0,,1
+Josh Gottheimer,D,금융,WFC,House Committee on Financial Services,1,-8,0.0,,1
+Julie Johnson,D,산업재,FDX,House Committee on Homeland Security,1,-8,0.0,,1
+Julie Johnson,D,산업재,GNRC,House Committee on Homeland Security,1,-8,0.0,,1
+Julie Johnson,D,산업재,GWW,House Committee on Homeland Security,1,-8,0.0,,1
+Julie Johnson,D,산업재,HWM,House Committee on Homeland Security,1,-8,0.0,,1
+Julie Johnson,D,산업재,NSC,House Committee on Homeland Security,1,-8,0.0,,1
+Julie Johnson,D,산업재,PNR,House Committee on Homeland Security,1,-8,0.0,,1
+Julie Johnson,D,산업재,VRSK,House Committee on Homeland Security,1,-8,0.0,,1
+Kevin Hern,R,헬스케어,CCLD,House Committee on Ways and Means,1,-75,0.0,,1
+Kevin Hern,R,헬스케어,WAT,House Committee on Ways and Means,1,0,0.0,,1
+Kim Dr Schrier,D,헬스케어,CVS,House Committee on Energy and Commerce,1,0,0.0,,1
+Laurel Lee,R,커뮤니케이션,WBD,House Committee on the Judiciary,1,-8,0.0,,1
+Lisa McClain,R,금융,PGR,House Committee on Financial Services,1,8,0.0,,1
+Michael Patrick Guest,R,산업재,GD,House Committee on Homeland Security,1,8,0.0,,1
+Mike Kelly,R,에너지,CVX,Senate Committee on Environment and Public,1,-8,0.0,,1
+Mike Kelly,R,헬스케어,UNH,House Committee on Ways and Means,1,-8,0.0,,1
+Mike Kelly,R,산업재,UNP,Senate Committee on Armed Services,1,0,0.0,,1
+Richard Dean Dr McCormick,R,기술/반도체,ADI,"House Committee on Science, Space, and Tec",1,8,0.0,,1
+Richard Dean Dr McCormick,R,기술/반도체,CSCO,"House Committee on Science, Space, and Tec",1,8,0.0,,1
+Richard Dean Dr McCormick,R,산업재,EMR,House Committee on Armed Services,1,8,0.0,,1
+Richard Dean Dr McCormick,R,산업재,ITW,House Committee on Armed Services,1,8,0.0,,1
+Richard Dean Dr McCormick,R,산업재,LHX,House Committee on Armed Services,1,8,0.0,,1
+Richard W. Allen,R,소재,ALB,House Committee on Energy and Commerce,1,-8,0.0,,1
+Richard W. Allen,R,커뮤니케이션,DIS,House Committee on Energy and Commerce,1,-33,0.0,,1
+Richard W. Allen,R,에너지,KMI,House Committee on Energy and Commerce,1,8,0.0,,1
+Richard W. Allen,R,기술/반도체,PAYX,House Committee on Energy and Commerce,1,0,0.0,,1
+Richard W. Allen,R,에너지,PSX,House Committee on Energy and Commerce,1,-33,0.0,,1
+Richard W. Allen,R,기술/반도체,TSM,House Committee on Energy and Commerce,1,8,0.0,,1
+Rick Larsen,D,산업재,BAH,House Committee on Transportation and Infr,1,-8,0.0,,1
+Rick Larsen,D,산업재,CARR,House Committee on Transportation and Infr,1,8,0.0,,1
+Rick Larsen,D,산업재,CTAS,House Committee on Transportation and Infr,1,8,0.0,,1
+Rick Larsen,D,산업재,UPS,House Committee on Transportation and Infr,1,-8,0.0,,1
+Rick Larsen,D,산업재,WAB,House Committee on Transportation and Infr,1,8,0.0,,1
+Ritchie John Torres,D,금융,BAC,House Committee on Financial Services,1,-8,0.0,,1
+Ritchie John Torres,D,금융,C,House Committee on Financial Services,1,-8,0.0,,1
+Ritchie John Torres,D,금융,MET,House Committee on Financial Services,1,-8,0.0,,1
+Ritchie John Torres,D,금융,USB,House Committee on Financial Services,1,-8,0.0,,1
+Rob Bresnahan,R,산업재,BAH,House Committee on Transportation and Infr,1,-33,0.0,,1
+Rob Bresnahan,R,산업재,CSX,House Committee on Transportation and Infr,1,-8,0.0,,1
+Rob Bresnahan,R,산업재,DAL,House Committee on Transportation and Infr,1,8,0.0,,1
+Rob Bresnahan,R,산업재,EME,House Committee on Transportation and Infr,1,-8,0.0,,1
+Rob Bresnahan,R,산업재,ETN,House Committee on Transportation and Infr,1,-8,0.0,,1
+Rob Bresnahan,R,산업재,FDX,House Committee on Transportation and Infr,1,-8,0.0,,1
+Rob Bresnahan,R,산업재,FIX,House Committee on Transportation and Infr,1,-8,0.0,,1
+Rob Bresnahan,R,산업재,GE,House Committee on Transportation and Infr,1,-8,0.0,,1
+Rob Bresnahan,R,산업재,GNRC,House Committee on Transportation and Infr,1,-8,0.0,,1
+Rob Bresnahan,R,산업재,GWW,House Committee on Transportation and Infr,1,8,0.0,,1
+Rob Bresnahan,R,산업재,HON,House Committee on Transportation and Infr,1,-8,0.0,,1
+Rob Bresnahan,R,산업재,MMM,House Committee on Transportation and Infr,1,0,0.0,,1
+Rob Bresnahan,R,산업재,NOC,House Committee on Transportation and Infr,1,-8,0.0,,1
+Rob Bresnahan,R,산업재,NSC,House Committee on Transportation and Infr,1,-8,0.0,,1
+Rob Bresnahan,R,산업재,TDG,House Committee on Transportation and Infr,1,-8,0.0,,1
+Rob Bresnahan,R,산업재,UNP,House Committee on Transportation and Infr,1,8,0.0,,1
+Rob Bresnahan,R,산업재,WM,House Committee on Transportation and Infr,1,-8,0.0,,1
+Robert J. Wittman,R,산업재,CAT,House Committee on Armed Services,1,-8,0.0,,1
+Robert J. Wittman,R,에너지,EOG,House Committee on Natural Resources,1,-8,0.0,,1
+Robert J. Wittman,R,산업재,HON,House Committee on Armed Services,1,-8,0.0,,1
+Robert J. Wittman,R,에너지,KMI,House Committee on Natural Resources,1,-8,0.0,,1
+Robert J. Wittman,R,산업재,NOC,House Committee on Armed Services,1,-8,0.0,,1
+Robert J. Wittman,R,산업재,UNP,House Committee on Armed Services,1,8,0.0,,1
+Roger Williams,R,금융,JPM,House Committee on Financial Services,1,8,0.0,,1
+Ron L Wyden,D,헬스케어,PFE,Senate Committee on Finance,1,-8,0.0,,1
+Sara Jacobs,D,산업재,UPS,House Committee on Armed Services,1,0,0.0,,1
+Scott DesJarlais,R,산업재,UPS,House Committee on Armed Services,1,-8,0.0,,1
+Sheldon Whitehouse,D,기술/반도체,ADI,Senate Committee on the Judiciary,1,-33,0.0,,1
+Sheldon Whitehouse,D,헬스케어,BIIB,Senate Committee on Finance,1,-8,0.0,,1
+Sheldon Whitehouse,D,커뮤니케이션,CMCSA,Senate Committee on the Judiciary,1,-33,0.0,,1
+Sheldon Whitehouse,D,헬스케어,ILMN,Senate Committee on Finance,1,-8,0.0,,1
+Sheldon Whitehouse,D,헬스케어,JNJ,Senate Committee on Finance,1,-33,0.0,,1
+Sheldon Whitehouse,D,기술/반도체,MCHP,Senate Committee on the Judiciary,1,-33,0.0,,1
+Sheldon Whitehouse,D,헬스케어,PFE,Senate Committee on Finance,1,-8,0.0,,1
+Sheldon Whitehouse,D,기술/반도체,TEL,Senate Committee on the Judiciary,1,-8,0.0,,1
+Sheldon Whitehouse,D,커뮤니케이션,WBD,Senate Committee on the Judiciary,1,-8,0.0,,1
+Shelley M Capito,R,소재,APD,Senate Committee on Environment and Public,1,-8,0.0,,1
+Shelley M Capito,R,기술/반도체,ASML,"Senate Committee on Commerce, Science, and",1,-8,0.0,,1
+Shelley M Capito,R,산업재,CARR,"Senate Committee on Commerce, Science, and",1,-8,0.0,,1
+Shelley M Capito,R,산업재,CSX,"Senate Committee on Commerce, Science, and",1,-8,0.0,,1
+Shelley M Capito,R,산업재,DE,"Senate Committee on Commerce, Science, and",1,-8,0.0,,1
+Shelley M Capito,R,산업재,GD,"Senate Committee on Commerce, Science, and",1,-8,0.0,,1
+Shelley M Capito,R,기술/반도체,GDDY,"Senate Committee on Commerce, Science, and",1,-8,0.0,,1
+Shelley M Capito,R,산업재,GE,"Senate Committee on Commerce, Science, and",1,8,0.0,,1
+Shelley M Capito,R,커뮤니케이션,GOOG,"Senate Committee on Commerce, Science, and",1,-8,0.0,,1
+Shelley M Capito,R,산업재,LHX,"Senate Committee on Commerce, Science, and",1,-8,0.0,,1
+Shelley M Capito,R,소재,LIN,Senate Committee on Environment and Public,1,-8,0.0,,1
+Shelley M Capito,R,산업재,MMM,"Senate Committee on Commerce, Science, and",1,-8,0.0,,1
+Shelley M Capito,R,산업재,OTIS,"Senate Committee on Commerce, Science, and",1,-8,0.0,,1
+Shelley M Capito,R,산업재,RTX,"Senate Committee on Commerce, Science, and",1,-8,0.0,,1
+Shelley M Capito,R,산업재,SAFRY,"Senate Committee on Commerce, Science, and",1,-8,0.0,,1
+Shelley M Capito,R,에너지,SHEL,Senate Committee on Environment and Public,1,-8,0.0,,1
+Shelley M Capito,R,소재,SHW,Senate Committee on Environment and Public,1,8,0.0,,1
+Shelley M Capito,R,에너지,SLB,Senate Committee on Environment and Public,1,-8,0.0,,1
+Shelley M Capito,R,커뮤니케이션,T,"Senate Committee on Commerce, Science, and",1,-8,0.0,,1
+Shelley M Capito,R,기술/반도체,TSM,"Senate Committee on Commerce, Science, and",1,-8,0.0,,1
+Shelley M Capito,R,산업재,UPS,"Senate Committee on Commerce, Science, and",1,-8,0.0,,1
+Shelley M Capito,R,커뮤니케이션,VZ,"Senate Committee on Commerce, Science, and",1,-8,0.0,,1
+Sheri Biggs,R,기술/반도체,CSCO,"House Committee on Science, Space, and Tec",1,0,0.0,,1
+Sheri Biggs,R,기술/반도체,FIS,"House Committee on Science, Space, and Tec",1,0,0.0,,1
+Sheri Biggs,R,기술/반도체,INFY,"House Committee on Science, Space, and Tec",1,-8,0.0,,1
+Sheri Biggs,R,산업재,NOC,House Committee on Homeland Security,1,0,0.0,,1
+Sheri Biggs,R,산업재,NSC,House Committee on Homeland Security,1,-33,0.0,,1
+Sheri Biggs,R,기술/반도체,PAYX,"House Committee on Science, Space, and Tec",1,0,0.0,,1
+Sheri Biggs,R,기술/반도체,TEL,"House Committee on Science, Space, and Tec",1,0,0.0,,1
+Sheri Biggs,R,기술/반도체,TSM,"House Committee on Science, Space, and Tec",1,-8,0.0,,1
+Sheri Biggs,R,기술/반도체,TXN,"House Committee on Science, Space, and Tec",1,0,0.0,,1
+Sheri Biggs,R,산업재,UPS,House Committee on Homeland Security,1,-8,0.0,,1
+Steve Cohen,D,커뮤니케이션,CHTR,House Committee on the Judiciary,1,-8,0.0,,1
+Susie Lee,R,에너지,BP,House Committee on Natural Resources,1,-8,0.0,,1
+Susie Lee,R,에너지,MPC,House Committee on Natural Resources,1,-8,0.0,,1
+Thomas H Tuberville,R,헬스케어,BDX,"Senate Committee on Health, Education, Lab",1,-33,0.0,,1
+Thomas H Tuberville,R,산업재,CARR,Senate Committee on Armed Services,1,-8,0.0,,1
+Thomas H Tuberville,R,헬스케어,CVS,"Senate Committee on Health, Education, Lab",1,-8,0.0,,1
+Thomas H Tuberville,R,산업재,FDX,Senate Committee on Armed Services,1,-8,0.0,,1
+Thomas H Tuberville,R,산업재,GD,Senate Committee on Armed Services,1,-33,0.0,,1
+Thomas H Tuberville,R,산업재,GE,Senate Committee on Armed Services,1,-33,0.0,,1
+Thomas H Tuberville,R,산업재,LMT,Senate Committee on Armed Services,1,-33,0.0,,1
+Thomas H Tuberville,R,헬스케어,NVO,"Senate Committee on Health, Education, Lab",1,-33,0.0,,1
+Thomas H Tuberville,R,산업재,RTX,Senate Committee on Armed Services,1,-8,0.0,,1
+Thomas H Tuberville,R,산업재,UPS,Senate Committee on Armed Services,1,-33,0.0,,1
+Thomas H Tuberville,R,산업재,VRSK,Senate Committee on Armed Services,1,-8,0.0,,1
+Thomas H Tuberville,R,헬스케어,ZTS,"Senate Committee on Health, Education, Lab",1,-8,0.0,,1
+Thomas H. Kean,R,기술/반도체,ADBE,House Committee on Energy and Commerce,1,-8,0.0,,1
+Thomas H. Kean,R,커뮤니케이션,BATRK,House Committee on Energy and Commerce,1,0,0.0,,1
+Thomas H. Kean,R,커뮤니케이션,GOOG,House Committee on Energy and Commerce,1,-8,0.0,,1
+Thomas H. Kean,R,커뮤니케이션,LBRDK,House Committee on Energy and Commerce,1,0,0.0,,1
+Thomas H. Kean,R,커뮤니케이션,SIRI,House Committee on Energy and Commerce,1,0,0.0,,1
+Thomas H. Kean,R,헬스케어,TMO,House Committee on Energy and Commerce,1,8,0.0,,1
+Thomas H. Kean,R,헬스케어,WAT,House Committee on Energy and Commerce,1,75,0.0,,1
+Thomas R. Suozzi,D,헬스케어,CVS,House Committee on Ways and Means,1,-8,0.0,,1
+Thomas Suozzi,D,헬스케어,AZN,House Committee on Ways and Means,1,0,0.0,,1
+Thomas Suozzi,D,헬스케어,CI,House Committee on Ways and Means,1,0,0.0,,1
+Tim Moore,D,금융,BLK,House Committee on Financial Services,1,0,0.0,,1
+Tina Smith,D,헬스케어,ABT,Senate Committee on Finance,1,-375,0.0,,1
+Tina Smith,D,금융,HBAN,"Senate Committee on Banking, Housing, and ",1,-175,0.0,,1
+Tina Smith,D,헬스케어,MDT,Senate Committee on Finance,1,-175,0.0,,1
+Valerie Hoyle,D,소재,CF,House Committee on Natural Resources,1,8,0.0,,1
+Valerie Hoyle,D,산업재,CSX,House Committee on Transportation and Infr,1,-8,0.0,,1
+Valerie Hoyle,D,산업재,LHX,House Committee on Transportation and Infr,1,-8,0.0,,1
+Valerie Hoyle,D,산업재,MMM,House Committee on Transportation and Infr,1,-8,0.0,,1
+Valerie Hoyle,D,산업재,NSC,House Committee on Transportation and Infr,1,-8,0.0,,1
+Valerie Hoyle,D,산업재,UPS,House Committee on Transportation and Infr,1,-8,0.0,,1
+Valerie Hoyle,D,산업재,VRT,House Committee on Transportation and Infr,1,8,0.0,,1
+William R. Keating,D,산업재,BA,House Committee on Armed Services,1,8,0.0,,1
+William R. Keating,D,산업재,NOC,House Committee on Armed Services,1,8,0.0,,1
+William R. Keating,D,산업재,TDG,House Committee on Armed Services,1,8,0.0,,1
+Zoe Lofgren,D,커뮤니케이션,TMUS,House Committee on the Judiciary,1,-8,0.0,,1

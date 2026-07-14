@@ -1,0 +1,105 @@
+ticker,pct,valUSD,name
+NVDA,10.24,26978344.0,NVIDIA Corp
+MSFT,7.22,19021258.22,Microsoft Corp
+GOOG,6.169,16252643.4,Alphabet Inc
+AMZN,4.999,13169896.74,Amazon.com Inc
+AAPL,4.172,10990212.36,Apple Inc
+AORT,3.34,8798488.27,Artivion Inc
+AXP,3.318,8741918.5,American Express Co
+CRM,3.289,8664676.28,Salesforce Inc
+PM,2.891,7616433.6,Philip Morris International In
+LLY,2.645,6968225.12,Eli Lilly &amp; Co
+NFLX,2.628,6923613.44,Netflix Inc
+AMAT,2.552,6722601.41,Applied Materials Inc
+META,2.466,6496605.78,Meta Platforms Inc
+CRWD,2.345,6178256.8,Crowdstrike Holdings Inc
+COST,2.318,6107954.22,Costco Wholesale Corp
+VMC,2.131,5614270.48,Vulcan Materials Co
+SSNC,1.828,4815792.96,SS&amp;C Technologies Holdings Inc
+DHI,1.617,4259111.13,DR Horton Inc
+DIS,1.372,3615610.6,Walt Disney Co/The
+JNJ,1.271,3347830.15,Johnson &amp; Johnson
+AVGO,1.172,3087904.2,Broadcom Inc
+APG,1.152,3035624.92,API Group Corp
+FGXXX,1.067,2809932.89,First American Government Obli
+ABT,1.052,2771665.38,Abbott Laboratories
+IBM,0.995,2621458.5,IBM
+MU,0.808,2127731.55,Micron Technology Inc
+KO,0.729,1920217.97,Coca-Cola Co/The
+ANET,0.723,1903996.93,Arista Networks Inc
+AMD,0.694,1827855.6,Advanced Micro Devices Inc
+CVS,0.693,1826470.4,CVS Health Corp
+TCMD,0.689,1814008.0,Tactile Systems Technology Inc
+INTU,0.679,1789858.84,Intuit Inc
+PWR,0.656,1728335.7,Quanta Services Inc
+NOW,0.636,1674366.7,ServiceNow Inc
+MS,0.626,1648366.05,Morgan Stanley
+VST,0.624,1645243.34,Vistra Corp
+URI,0.59,1554703.72,United Rentals Inc
+RTX,0.586,1543127.6,RTX Corp
+TEM,0.568,1495795.55,Tempus AI Inc
+ACN,0.551,1451234.7,Accenture PLC
+PANW,0.55,1447996.2,Palo Alto Networks Inc
+PLTR,0.536,1413112.5,Palantir Technologies Inc
+KKR,0.505,1331528.6,KKR &amp; Co Inc
+NOC,0.504,1328019.09,Northrop Grumman Corp
+LRCX,0.492,1295147.88,Lam Research Corp
+WFC,0.467,1231638.0,Wells Fargo &amp; Co
+HOOD,0.427,1124553.3,Robinhood Markets Inc
+STX,0.414,1090269.01,Seagate Technology Holdings PL
+ARMK,0.392,1032485.46,Aramark
+COF,0.376,991252.4,Capital One Financial Corp
+PINS,0.373,982836.18,Pinterest Inc
+CVLT,0.356,938946.4,Commvault Systems Inc
+PGR,0.342,899949.44,Progressive Corp/The
+HCA,0.34,894970.62,HCA Healthcare Inc
+WMT,0.336,884706.81,Walmart Inc
+C,0.32,843085.25,Citigroup Inc
+CSCO,0.319,839858.09,Cisco Systems Inc
+ABBV,0.294,773667.14,AbbVie Inc
+HD,0.292,770095.8,Home Depot Inc/The
+IDXX,0.289,760419.72,IDEXX Laboratories Inc
+ELAN,0.277,728821.78,Elanco Animal Health Inc
+V,0.256,673713.91,Visa Inc
+GLW,0.255,672198.12,Corning Inc
+MAR,0.254,670118.4,Marriott International Inc/MD
+AMGN,0.237,623198.24,Amgen Inc
+BAC,0.236,623040.0,Bank of America Corp
+JPM,0.233,613506.88,JPMorgan Chase &amp; Co
+PG,0.226,595882.98,Procter &amp; Gamble Co/The
+SBUX,0.224,589385.79,Starbucks Corp
+BALL,0.216,568262.16,Ball Corp
+SCHW,0.21,554300.68,Charles Schwab Corp/The
+BK,0.21,552820.58,Bank of New York Mellon Corp/T
+FWONK,0.208,546829.01,Liberty Media Corp-Liberty For
+VRT,0.205,539817.32,Vertiv Holdings Co
+DELL,0.205,541158.12,Dell Technologies Inc
+OSK,0.203,535811.95,Oshkosh Corp
+TMUS,0.202,533183.04,T-Mobile US Inc
+F,0.202,532134.08,Ford Motor Co
+ST,0.2,527513.34,Sensata Technologies Holding P
+BLK,0.199,523396.26,Blackrock Inc
+TJX,0.195,514132.67,TJX Cos Inc/The
+MO,0.173,456609.54,Altria Group Inc
+ALL,0.171,449604.0,Allstate Corp/The
+SYY,0.169,445161.29,Sysco Corp
+MDT,0.165,435055.74,Medtronic PLC
+MA,0.16,420738.56,Mastercard Inc
+CAT,0.158,416476.49,Caterpillar Inc
+DPZ,0.156,410150.88,Domino's Pizza Inc
+MRK,0.155,407250.94,Merck &amp; Co Inc
+BX,0.153,403692.66,Blackstone Inc
+AMCR,0.149,393264.36,Amcor PLC
+MHK,0.149,392168.4,Mohawk Industries Inc
+MCHP,0.146,383849.28,Microchip Technology Inc
+TT,0.141,372075.2,Trane Technologies PLC
+VZ,0.137,362048.97,Verizon Communications Inc
+CL,0.136,358513.74,Colgate-Palmolive Co
+LOW,0.135,355952.16,Lowe's Cos Inc
+MMC,0.135,356754.96,Marsh &amp; McLennan Cos Inc
+PEP,0.131,345452.64,PepsiCo Inc
+PFE,0.128,337594.2,Pfizer Inc
+VRTX,0.126,332766.24,Vertex Pharmaceuticals Inc
+CI,0.125,328074.16,Cigna Group/The
+MCD,0.119,314187.64,McDonald's Corp
+ZBH,0.114,299793.28,Zimmer Biomet Holdings Inc
